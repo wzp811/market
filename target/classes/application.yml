@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/market?characterEncoding=utf-8
+    username: root
+    password: wzp1019811
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver

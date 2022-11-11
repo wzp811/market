@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>超市订单管理系统</title>
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="css/public.css"/>
+</head>
+<body>
+<!--头部-->
+<header class="publicHeader">
+    <h1>超市订单管理系统</h1>
+
+    <div class="publicHeaderR">
+        <p><span>下午好！</span><span style="color: #fff21b"> 系统管理员</span> , 欢迎你！</p>
+        <a href="jsp/logout.do">退出</a>
+    </div>
+</header>
+<!--时间-->
+<section class="publicTime">
+    <span id="time">2015年1月1日 11:11  星期一</span>
+    <a href="#">温馨提示：为了能正常浏览，请使用高版本浏览器！（IE10+）</a>
+</section>
+<!--主体内容-->
+<section class="publicMian ">
+    <div class="left">
+        <h2 class="leftH2"><span class="span1"></span>功能列表 <span></span></h2>
+        <nav>
+            <ul class="list">
+                <li><a href="jsp/bill.do?method=query">订单管理</a></li>
+                <li><a href="jsp/provider.do?method=query">供应商管理</a></li>
+                <li><a href="jsp/user.do?method=query">用户管理</a></li>
+                <li><a href="jsp/pwdmodify.jsp">密码修改</a></li>
+                <li><a href="jsp/logout.do">退出系统</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="right">
+        <div class="location">
+            <strong>你现在所在的位置是:</strong>
+            <span>供应商管理页面</span>
+        </div>
+        <div class="search">
+            <form method="get" action="jsp/provider.do">
+                <input name="method" value="query" type="hidden">
+                <span>供应商编码：</span>
+                <input name="queryProCode" type="text" value="">
+
+                <span>供应商名称：</span>
+                <input name="queryProName" type="text" value="">
+
+                <input value="查 询" type="submit" id="searchbutton">
+                <a href="jsp/provideradd.jsp">添加供应商</a>
+            </form>
+        </div>
+        <!--供应商操作表格-->
+        <table class="providerTable" cellpadding="0" cellspacing="0">
+            <tr class="firstTr">
+                <th width="10%">供应商编码</th>
+                <th width="20%">供应商名称</th>
+                <th width="10%">联系人</th>
+                <th width="10%">联系电话</th>
+                <th width="10%">传真</th>
+                <th width="10%">创建时间</th>
+                <th width="30%">操作</th>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>BJ_GYS001</span>
+                </td>
+                <td>
+                    <span>北京三木堂商贸有限公司</span>
+                </td>
+                <td>
+                    <span>张国强</span>
+                </td>
+                <td>
+                    <span>13566667777</span>
+                </td>
+                <td>
+                    <span>010-58858787</span>
+                </td>
+                <td>
+					<span>
+					2013-03-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=1 proname=北京三木堂商贸有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=1 proname=北京三木堂商贸有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=1 proname=北京三木堂商贸有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>HB_GYS001</span>
+                </td>
+                <td>
+                    <span>石家庄帅益食品贸易有限公司</span>
+                </td>
+                <td>
+                    <span>王军</span>
+                </td>
+                <td>
+                    <span>13309094212</span>
+                </td>
+                <td>
+                    <span>0311-67738876</span>
+                </td>
+                <td>
+					<span>
+					2016-04-13
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=2 proname=石家庄帅益食品贸易有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=2 proname=石家庄帅益食品贸易有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=2 proname=石家庄帅益食品贸易有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>GZ_GYS001</span>
+                </td>
+                <td>
+                    <span>深圳市泰香米业有限公司</span>
+                </td>
+                <td>
+                    <span>郑程瀚</span>
+                </td>
+                <td>
+                    <span>13402013312</span>
+                </td>
+                <td>
+                    <span>0755-67776212</span>
+                </td>
+                <td>
+					<span>
+					2014-03-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=3 proname=深圳市泰香米业有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=3 proname=深圳市泰香米业有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=3 proname=深圳市泰香米业有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>GZ_GYS002</span>
+                </td>
+                <td>
+                    <span>深圳市喜来客商贸有限公司</span>
+                </td>
+                <td>
+                    <span>林妮</span>
+                </td>
+                <td>
+                    <span>18599897645</span>
+                </td>
+                <td>
+                    <span>0755-67772341</span>
+                </td>
+                <td>
+					<span>
+					2013-03-22
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=4 proname=深圳市喜来客商贸有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=4 proname=深圳市喜来客商贸有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=4 proname=深圳市喜来客商贸有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>JS_GYS001</span>
+                </td>
+                <td>
+                    <span>兴化佳美调味品厂</span>
+                </td>
+                <td>
+                    <span>徐国洋</span>
+                </td>
+                <td>
+                    <span>13754444221</span>
+                </td>
+                <td>
+                    <span>0523-21299098</span>
+                </td>
+                <td>
+					<span>
+					2015-11-22
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=5 proname=兴化佳美调味品厂><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=5 proname=兴化佳美调味品厂><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=5 proname=兴化佳美调味品厂><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>BJ_GYS002</span>
+                </td>
+                <td>
+                    <span>北京纳福尔食用油有限公司</span>
+                </td>
+                <td>
+                    <span>马莺</span>
+                </td>
+                <td>
+                    <span>13422235678</span>
+                </td>
+                <td>
+                    <span>010-588634233</span>
+                </td>
+                <td>
+					<span>
+					2012-03-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=6 proname=北京纳福尔食用油有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=6 proname=北京纳福尔食用油有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=6 proname=北京纳福尔食用油有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>BJ_GYS003</span>
+                </td>
+                <td>
+                    <span>北京国粮食用油有限公司</span>
+                </td>
+                <td>
+                    <span>王驰</span>
+                </td>
+                <td>
+                    <span>13344441135</span>
+                </td>
+                <td>
+                    <span>010-588134111</span>
+                </td>
+                <td>
+					<span>
+					2016-04-13
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=7 proname=北京国粮食用油有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=7 proname=北京国粮食用油有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=7 proname=北京国粮食用油有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>ZJ_GYS001</span>
+                </td>
+                <td>
+                    <span>慈溪市广和绿色食品厂</span>
+                </td>
+                <td>
+                    <span>薛圣丹</span>
+                </td>
+                <td>
+                    <span>18099953223</span>
+                </td>
+                <td>
+                    <span>0574-34449090</span>
+                </td>
+                <td>
+					<span>
+					2013-11-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=8 proname=慈溪市广和绿色食品厂><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=8 proname=慈溪市广和绿色食品厂><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=8 proname=慈溪市广和绿色食品厂><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>GX_GYS001</span>
+                </td>
+                <td>
+                    <span>优百商贸有限公司</span>
+                </td>
+                <td>
+                    <span>李立国</span>
+                </td>
+                <td>
+                    <span>13323566543</span>
+                </td>
+                <td>
+                    <span>0771-98861134</span>
+                </td>
+                <td>
+					<span>
+					2013-03-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=9 proname=优百商贸有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=9 proname=优百商贸有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=9 proname=优百商贸有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>JS_GYS002</span>
+                </td>
+                <td>
+                    <span>南京火头军信息技术有限公司</span>
+                </td>
+                <td>
+                    <span>陈女士</span>
+                </td>
+                <td>
+                    <span>13098992113</span>
+                </td>
+                <td>
+                    <span>025-86223345</span>
+                </td>
+                <td>
+					<span>
+					2013-03-25
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=10 proname=南京火头军信息技术有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=10 proname=南京火头军信息技术有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=10 proname=南京火头军信息技术有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>GZ_GYS003</span>
+                </td>
+                <td>
+                    <span>广州市白云区美星五金制品厂</span>
+                </td>
+                <td>
+                    <span>梁天</span>
+                </td>
+                <td>
+                    <span>13562276775</span>
+                </td>
+                <td>
+                    <span>020-85542231</span>
+                </td>
+                <td>
+					<span>
+					2016-12-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=11 proname=广州市白云区美星五金制品厂><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=11 proname=广州市白云区美星五金制品厂><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=11 proname=广州市白云区美星五金制品厂><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>BJ_GYS004</span>
+                </td>
+                <td>
+                    <span>北京隆盛日化科技</span>
+                </td>
+                <td>
+                    <span>孙欣</span>
+                </td>
+                <td>
+                    <span>13689865678</span>
+                </td>
+                <td>
+                    <span>010-35576786</span>
+                </td>
+                <td>
+					<span>
+					2014-11-21
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=12 proname=北京隆盛日化科技><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=12 proname=北京隆盛日化科技><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=12 proname=北京隆盛日化科技><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>SD_GYS001</span>
+                </td>
+                <td>
+                    <span>山东豪克华光联合发展有限公司</span>
+                </td>
+                <td>
+                    <span>吴洪转</span>
+                </td>
+                <td>
+                    <span>13245468787</span>
+                </td>
+                <td>
+                    <span>0531-53362445</span>
+                </td>
+                <td>
+					<span>
+					2015-01-28
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=13 proname=山东豪克华光联合发展有限公司><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=13 proname=山东豪克华光联合发展有限公司><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=13 proname=山东豪克华光联合发展有限公司><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>JS_GYS003</span>
+                </td>
+                <td>
+                    <span>无锡喜源坤商行</span>
+                </td>
+                <td>
+                    <span>周一清</span>
+                </td>
+                <td>
+                    <span>18567674532</span>
+                </td>
+                <td>
+                    <span>0510-32274422</span>
+                </td>
+                <td>
+					<span>
+					2016-04-23
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=14 proname=无锡喜源坤商行><img
+                            src="images/read.png" alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=14 proname=无锡喜源坤商行><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=14 proname=无锡喜源坤商行><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <span>ZJ_GYS002</span>
+                </td>
+                <td>
+                    <span>乐摆日用品厂</span>
+                </td>
+                <td>
+                    <span>王世杰</span>
+                </td>
+                <td>
+                    <span>13212331567</span>
+                </td>
+                <td>
+                    <span>0579-34452321</span>
+                </td>
+                <td>
+					<span>
+					2016-08-22
+					</span>
+                </td>
+                <td>
+                    <span><a class="viewProvider" href="javascript:;" proid=15 proname=乐摆日用品厂><img src="images/read.png"
+                                                                                                   alt="查看" title="查看"/></a></span>
+                    <span><a class="modifyProvider" href="javascript:;" proid=15 proname=乐摆日用品厂><img
+                            src="images/xiugai.png" alt="修改" title="修改"/></a></span>
+                    <span><a class="deleteProvider" href="javascript:;" proid=15 proname=乐摆日用品厂><img
+                            src="images/schu.png" alt="删除" title="删除"/></a></span>
+                </td>
+            </tr>
+
+        </table>
+
+    </div>
+</section>
+
+<!--点击删除按钮后弹出的页面-->
+<div class="zhezhao"></div>
+<div class="remove" id="removeProv">
+    <div class="removerChid">
+        <h2>提示</h2>
+
+        <div class="removeMain">
+            <p>你确定要删除该供应商吗？</p>
+            <a href="#" id="yes">确定</a>
+            <a href="#" id="no">取消</a>
+        </div>
+    </div>
+</div>
+
+
+<footer class="footer">
+    版权归北大青鸟
+</footer>
+<script type="text/javascript" src="js/time.js"></script>
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="calendar/WdatePicker.js"></script>
+</body>
+</html>
+<script type="text/javascript" src="js/providerlist.js"></script>

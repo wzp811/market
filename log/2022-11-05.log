@@ -1,0 +1,1951 @@
+[INFO]2022-11-05 14:31:30,269 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:31:30,274 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:31:30,371 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-05 14:31:30,371 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-05 14:31:34,364 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:31:34,386 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:31:34,402 - Starting service [Tomcat]
+[INFO]2022-11-05 14:31:34,402 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:31:34,936 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:31:34,945 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:31:34,945 - Root WebApplicationContext: initialization completed in 4574 ms
+[INFO]2022-11-05 14:31:35,422 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:31:35,668 - Init DruidDataSource
+[INFO]2022-11-05 14:31:35,826 - {dataSource-1} inited
+[INFO]2022-11-05 14:31:36,207 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:31:36,551 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:31:36,692 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:31:36,696 - Started DemoApplication in 7.105 seconds (JVM running for 7.669)
+[INFO]2022-11-05 14:31:44,059 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:31:44,060 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:31:44,068 - Completed initialization in 8 ms
+[INFO]2022-11-05 14:33:29,060 - {dataSource-1} closed
+[INFO]2022-11-05 14:33:29,061 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:33:29,485 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:33:29,486 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:33:31,080 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:33:31,082 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:33:31,082 - Starting service [Tomcat]
+[INFO]2022-11-05 14:33:31,083 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:33:31,195 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:33:31,200 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:33:31,201 - Root WebApplicationContext: initialization completed in 1712 ms
+[INFO]2022-11-05 14:33:31,316 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:33:31,352 - Init DruidDataSource
+[INFO]2022-11-05 14:33:31,377 - {dataSource-2} inited
+[INFO]2022-11-05 14:33:31,500 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:33:31,550 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:33:31,562 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:33:31,563 - Started DemoApplication in 2.118 seconds (JVM running for 122.532)
+[INFO]2022-11-05 14:33:31,566 - Condition evaluation unchanged
+[INFO]2022-11-05 14:34:20,075 - {dataSource-2} closed
+[INFO]2022-11-05 14:34:20,076 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:34:20,478 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:34:20,480 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:34:22,075 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:34:22,076 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:34:22,076 - Starting service [Tomcat]
+[INFO]2022-11-05 14:34:22,077 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:34:22,161 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:34:22,164 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:34:22,164 - Root WebApplicationContext: initialization completed in 1673 ms
+[INFO]2022-11-05 14:34:22,301 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:34:22,353 - Init DruidDataSource
+[INFO]2022-11-05 14:34:22,405 - {dataSource-3} inited
+[INFO]2022-11-05 14:34:22,475 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:34:22,524 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:34:22,553 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:34:22,553 - Started DemoApplication in 2.13 seconds (JVM running for 173.522)
+[INFO]2022-11-05 14:34:22,558 - Condition evaluation unchanged
+[INFO]2022-11-05 14:34:32,835 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:34:32,836 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:34:32,842 - Completed initialization in 6 ms
+[INFO]2022-11-05 14:35:36,055 - {dataSource-3} closed
+[INFO]2022-11-05 14:35:36,055 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:35:36,423 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:35:36,423 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:35:37,672 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:35:37,674 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:35:37,675 - Starting service [Tomcat]
+[INFO]2022-11-05 14:35:37,675 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:35:37,752 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:35:37,756 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:35:37,756 - Root WebApplicationContext: initialization completed in 1331 ms
+[INFO]2022-11-05 14:35:37,852 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:35:37,897 - Init DruidDataSource
+[INFO]2022-11-05 14:35:37,928 - {dataSource-4} inited
+[INFO]2022-11-05 14:35:37,973 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:35:38,018 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:35:38,032 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:35:38,032 - Started DemoApplication in 1.642 seconds (JVM running for 248.999)
+[INFO]2022-11-05 14:35:38,035 - Condition evaluation unchanged
+[INFO]2022-11-05 14:36:04,527 - {dataSource-4} closed
+[INFO]2022-11-05 14:36:04,528 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:36:04,852 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:36:04,853 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:36:06,095 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:36:06,097 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:36:06,098 - Starting service [Tomcat]
+[INFO]2022-11-05 14:36:06,099 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:36:06,211 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:36:06,213 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:36:06,213 - Root WebApplicationContext: initialization completed in 1358 ms
+[INFO]2022-11-05 14:36:06,288 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:36:06,331 - Init DruidDataSource
+[INFO]2022-11-05 14:36:06,534 - {dataSource-5} inited
+[INFO]2022-11-05 14:36:06,609 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:36:06,682 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:36:06,693 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:36:06,694 - Started DemoApplication in 1.889 seconds (JVM running for 277.66)
+[INFO]2022-11-05 14:36:06,695 - Condition evaluation unchanged
+[INFO]2022-11-05 14:36:18,100 - {dataSource-5} closed
+[INFO]2022-11-05 14:36:18,112 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:36:18,421 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:36:18,421 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:36:19,370 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:36:19,370 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:36:19,372 - Starting service [Tomcat]
+[INFO]2022-11-05 14:36:19,372 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:36:19,430 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:36:19,432 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:36:19,434 - Root WebApplicationContext: initialization completed in 1011 ms
+[INFO]2022-11-05 14:36:19,522 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:36:19,562 - Init DruidDataSource
+[INFO]2022-11-05 14:36:19,603 - {dataSource-6} inited
+[INFO]2022-11-05 14:36:19,672 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:36:19,737 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:36:19,760 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:36:19,761 - Started DemoApplication in 1.369 seconds (JVM running for 290.726)
+[INFO]2022-11-05 14:36:19,764 - Condition evaluation unchanged
+[INFO]2022-11-05 14:36:59,179 - {dataSource-6} closed
+[INFO]2022-11-05 14:36:59,180 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:36:59,528 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:36:59,528 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:37:00,477 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:37:00,477 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:00,478 - Starting service [Tomcat]
+[INFO]2022-11-05 14:37:00,478 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:37:00,603 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:37:00,606 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:37:00,606 - Root WebApplicationContext: initialization completed in 1076 ms
+[INFO]2022-11-05 14:37:00,706 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:00,758 - Init DruidDataSource
+[INFO]2022-11-05 14:37:00,790 - {dataSource-7} inited
+[INFO]2022-11-05 14:37:00,843 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:37:00,892 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:00,902 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:37:00,902 - Started DemoApplication in 1.413 seconds (JVM running for 331.867)
+[INFO]2022-11-05 14:37:00,904 - Condition evaluation unchanged
+[INFO]2022-11-05 14:37:36,307 - {dataSource-7} closed
+[INFO]2022-11-05 14:37:36,312 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:36,584 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:37:36,585 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:37:37,543 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:37:37,544 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:37,545 - Starting service [Tomcat]
+[INFO]2022-11-05 14:37:37,546 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:37:37,675 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:37:37,680 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:37:37,681 - Root WebApplicationContext: initialization completed in 1093 ms
+[INFO]2022-11-05 14:37:37,759 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:37,803 - Init DruidDataSource
+[INFO]2022-11-05 14:37:37,825 - {dataSource-8} inited
+[INFO]2022-11-05 14:37:37,893 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:37:37,925 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:37,935 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:37:37,936 - Started DemoApplication in 1.379 seconds (JVM running for 368.899)
+[INFO]2022-11-05 14:37:37,938 - Condition evaluation unchanged
+[INFO]2022-11-05 14:37:53,336 - {dataSource-8} closed
+[INFO]2022-11-05 14:37:53,336 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:53,694 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:37:53,695 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:37:54,540 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:37:54,541 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:54,541 - Starting service [Tomcat]
+[INFO]2022-11-05 14:37:54,541 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:37:54,590 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:37:54,591 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:37:54,591 - Root WebApplicationContext: initialization completed in 895 ms
+[INFO]2022-11-05 14:37:54,653 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:54,683 - Init DruidDataSource
+[INFO]2022-11-05 14:37:54,714 - {dataSource-9} inited
+[INFO]2022-11-05 14:37:54,755 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:37:54,812 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:54,828 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:37:54,830 - Started DemoApplication in 1.163 seconds (JVM running for 385.792)
+[INFO]2022-11-05 14:37:54,831 - Condition evaluation unchanged
+[INFO]2022-11-05 14:37:56,159 - {dataSource-9} closed
+[INFO]2022-11-05 14:37:56,159 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:56,431 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:37:56,431 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:37:57,267 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:37:57,268 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:57,268 - Starting service [Tomcat]
+[INFO]2022-11-05 14:37:57,268 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:37:57,326 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:37:57,328 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:37:57,328 - Root WebApplicationContext: initialization completed in 895 ms
+[INFO]2022-11-05 14:37:57,404 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:37:57,433 - Init DruidDataSource
+[INFO]2022-11-05 14:37:57,453 - {dataSource-10} inited
+[INFO]2022-11-05 14:37:57,491 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:37:57,516 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:37:57,557 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:37:57,557 - Started DemoApplication in 1.159 seconds (JVM running for 388.52)
+[INFO]2022-11-05 14:37:57,558 - Condition evaluation unchanged
+[INFO]2022-11-05 14:38:18,970 - {dataSource-10} closed
+[INFO]2022-11-05 14:38:18,970 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:19,248 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:38:19,248 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:38:20,107 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:38:20,108 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:20,108 - Starting service [Tomcat]
+[INFO]2022-11-05 14:38:20,109 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:38:20,152 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:38:20,154 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:38:20,154 - Root WebApplicationContext: initialization completed in 904 ms
+[INFO]2022-11-05 14:38:20,236 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:20,276 - Init DruidDataSource
+[INFO]2022-11-05 14:38:20,295 - {dataSource-11} inited
+[INFO]2022-11-05 14:38:20,324 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:38:20,372 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:20,387 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:38:20,387 - Started DemoApplication in 1.159 seconds (JVM running for 411.35)
+[INFO]2022-11-05 14:38:20,389 - Condition evaluation unchanged
+[INFO]2022-11-05 14:38:33,758 - {dataSource-11} closed
+[INFO]2022-11-05 14:38:33,759 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:34,093 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:38:34,094 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:38:34,902 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:38:34,903 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:34,903 - Starting service [Tomcat]
+[INFO]2022-11-05 14:38:34,903 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:38:34,946 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:38:34,949 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:38:34,949 - Root WebApplicationContext: initialization completed in 854 ms
+[INFO]2022-11-05 14:38:35,035 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:35,077 - Init DruidDataSource
+[INFO]2022-11-05 14:38:35,099 - {dataSource-12} inited
+[INFO]2022-11-05 14:38:35,159 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:38:35,200 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:35,208 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:38:35,208 - Started DemoApplication in 1.143 seconds (JVM running for 426.17)
+[INFO]2022-11-05 14:38:35,210 - Condition evaluation unchanged
+[INFO]2022-11-05 14:38:42,570 - {dataSource-12} closed
+[INFO]2022-11-05 14:38:42,572 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:42,919 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:38:42,920 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:38:43,729 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:38:43,730 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:43,730 - Starting service [Tomcat]
+[INFO]2022-11-05 14:38:43,731 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:38:43,784 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:38:43,792 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:38:43,792 - Root WebApplicationContext: initialization completed in 869 ms
+[INFO]2022-11-05 14:38:43,873 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:43,901 - Init DruidDataSource
+[INFO]2022-11-05 14:38:43,916 - {dataSource-13} inited
+[INFO]2022-11-05 14:38:43,950 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:38:43,987 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:43,995 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:38:43,996 - Started DemoApplication in 1.104 seconds (JVM running for 434.958)
+[INFO]2022-11-05 14:38:43,997 - Condition evaluation unchanged
+[INFO]2022-11-05 14:38:58,386 - {dataSource-13} closed
+[INFO]2022-11-05 14:38:58,386 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:58,696 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:38:58,697 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:38:59,485 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:38:59,486 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:59,486 - Starting service [Tomcat]
+[INFO]2022-11-05 14:38:59,486 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:38:59,521 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:38:59,522 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:38:59,522 - Root WebApplicationContext: initialization completed in 822 ms
+[INFO]2022-11-05 14:38:59,545 - Init DruidDataSource
+[INFO]2022-11-05 14:38:59,574 - {dataSource-14} inited
+[INFO]2022-11-05 14:38:59,629 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:38:59,672 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:38:59,688 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:38:59,700 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:38:59,700 - Started DemoApplication in 1.027 seconds (JVM running for 450.661)
+[INFO]2022-11-05 14:38:59,702 - Condition evaluation unchanged
+[INFO]2022-11-05 14:39:48,228 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:39:48,229 - {dataSource-14} closed
+[INFO]2022-11-05 14:39:48,537 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:39:48,538 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:39:49,343 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:39:49,344 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:39:49,344 - Starting service [Tomcat]
+[INFO]2022-11-05 14:39:49,345 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:39:49,377 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:39:49,378 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:39:49,379 - Root WebApplicationContext: initialization completed in 839 ms
+[INFO]2022-11-05 14:39:49,397 - Init DruidDataSource
+[INFO]2022-11-05 14:39:49,436 - {dataSource-15} inited
+[INFO]2022-11-05 14:39:49,489 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:39:49,531 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:39:49,541 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:39:49,548 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:39:49,548 - Started DemoApplication in 1.04 seconds (JVM running for 500.508)
+[INFO]2022-11-05 14:39:49,549 - Condition evaluation unchanged
+[INFO]2022-11-05 14:41:05,123 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:05,124 - {dataSource-15} closed
+[INFO]2022-11-05 14:41:05,453 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:41:05,454 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:41:06,325 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:41:06,326 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:06,327 - Starting service [Tomcat]
+[INFO]2022-11-05 14:41:06,327 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:41:06,388 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:41:06,391 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:41:06,391 - Root WebApplicationContext: initialization completed in 934 ms
+[INFO]2022-11-05 14:41:06,433 - Init DruidDataSource
+[INFO]2022-11-05 14:41:06,462 - {dataSource-16} inited
+[INFO]2022-11-05 14:41:06,562 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:06,638 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:41:06,653 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:06,661 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:41:06,661 - Started DemoApplication in 1.253 seconds (JVM running for 577.619)
+[INFO]2022-11-05 14:41:06,663 - Condition evaluation unchanged
+[INFO]2022-11-05 14:41:18,074 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:18,078 - {dataSource-16} closed
+[INFO]2022-11-05 14:41:18,503 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:41:18,504 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:41:19,379 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:41:19,380 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:19,381 - Starting service [Tomcat]
+[INFO]2022-11-05 14:41:19,381 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:41:19,438 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:41:19,439 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:41:19,440 - Root WebApplicationContext: initialization completed in 934 ms
+[INFO]2022-11-05 14:41:19,458 - Init DruidDataSource
+[INFO]2022-11-05 14:41:19,484 - {dataSource-17} inited
+[INFO]2022-11-05 14:41:19,536 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:19,581 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:41:19,592 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:19,602 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:41:19,603 - Started DemoApplication in 1.126 seconds (JVM running for 590.56)
+[INFO]2022-11-05 14:41:19,604 - Condition evaluation unchanged
+[INFO]2022-11-05 14:41:40,080 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:40,081 - {dataSource-17} closed
+[INFO]2022-11-05 14:41:40,402 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:41:40,403 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:41:41,191 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:41:41,193 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:41,193 - Starting service [Tomcat]
+[INFO]2022-11-05 14:41:41,194 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:41:41,228 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:41:41,231 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:41:41,231 - Root WebApplicationContext: initialization completed in 826 ms
+[INFO]2022-11-05 14:41:41,253 - Init DruidDataSource
+[INFO]2022-11-05 14:41:41,283 - {dataSource-18} inited
+[INFO]2022-11-05 14:41:41,330 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:41:41,373 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:41:41,390 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:41:41,397 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:41:41,398 - Started DemoApplication in 1.018 seconds (JVM running for 612.354)
+[INFO]2022-11-05 14:41:41,399 - Condition evaluation unchanged
+[INFO]2022-11-05 14:42:14,928 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:14,930 - {dataSource-18} closed
+[INFO]2022-11-05 14:42:15,268 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:42:15,269 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:42:16,132 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:42:16,134 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:16,134 - Starting service [Tomcat]
+[INFO]2022-11-05 14:42:16,135 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:42:16,173 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:42:16,178 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:42:16,178 - Root WebApplicationContext: initialization completed in 906 ms
+[INFO]2022-11-05 14:42:16,199 - Init DruidDataSource
+[INFO]2022-11-05 14:42:16,229 - {dataSource-19} inited
+[INFO]2022-11-05 14:42:16,280 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:16,342 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:42:16,365 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:16,378 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:42:16,380 - Started DemoApplication in 1.139 seconds (JVM running for 647.335)
+[INFO]2022-11-05 14:42:16,381 - Condition evaluation unchanged
+[INFO]2022-11-05 14:42:24,785 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:24,787 - {dataSource-19} closed
+[INFO]2022-11-05 14:42:25,078 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:42:25,079 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:42:25,897 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:42:25,899 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:25,900 - Starting service [Tomcat]
+[INFO]2022-11-05 14:42:25,900 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:42:25,938 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:42:25,939 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:42:25,939 - Root WebApplicationContext: initialization completed in 859 ms
+[INFO]2022-11-05 14:42:25,962 - Init DruidDataSource
+[INFO]2022-11-05 14:42:25,979 - {dataSource-20} inited
+[INFO]2022-11-05 14:42:26,049 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:26,079 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:42:26,089 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:26,095 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:42:26,095 - Started DemoApplication in 1.034 seconds (JVM running for 657.051)
+[INFO]2022-11-05 14:42:26,096 - Condition evaluation unchanged
+[INFO]2022-11-05 14:42:32,517 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:32,518 - {dataSource-20} closed
+[INFO]2022-11-05 14:42:32,806 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:42:32,807 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:42:33,732 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:42:33,733 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:33,733 - Starting service [Tomcat]
+[INFO]2022-11-05 14:42:33,734 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:42:33,819 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:42:33,852 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:42:33,853 - Root WebApplicationContext: initialization completed in 1045 ms
+[INFO]2022-11-05 14:42:33,945 - Init DruidDataSource
+[INFO]2022-11-05 14:42:34,007 - {dataSource-21} inited
+[INFO]2022-11-05 14:42:34,084 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:42:34,157 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:42:34,192 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:42:34,204 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:42:34,205 - Started DemoApplication in 1.421 seconds (JVM running for 665.16)
+[INFO]2022-11-05 14:42:34,206 - Condition evaluation unchanged
+[INFO]2022-11-05 14:43:03,650 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:03,650 - {dataSource-21} closed
+[INFO]2022-11-05 14:43:03,972 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:43:03,973 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:43:04,765 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:43:04,766 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:04,766 - Starting service [Tomcat]
+[INFO]2022-11-05 14:43:04,766 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:43:04,819 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:43:04,820 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:43:04,821 - Root WebApplicationContext: initialization completed in 846 ms
+[INFO]2022-11-05 14:43:04,844 - Init DruidDataSource
+[INFO]2022-11-05 14:43:04,877 - {dataSource-22} inited
+[INFO]2022-11-05 14:43:04,933 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:04,990 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:43:05,002 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:05,012 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:43:05,013 - Started DemoApplication in 1.067 seconds (JVM running for 695.967)
+[INFO]2022-11-05 14:43:05,014 - Condition evaluation unchanged
+[INFO]2022-11-05 14:43:06,395 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:06,396 - {dataSource-22} closed
+[INFO]2022-11-05 14:43:06,736 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:43:06,737 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:43:07,522 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:43:07,522 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:07,523 - Starting service [Tomcat]
+[INFO]2022-11-05 14:43:07,523 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:43:07,566 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:43:07,567 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:43:07,567 - Root WebApplicationContext: initialization completed in 827 ms
+[INFO]2022-11-05 14:43:07,604 - Init DruidDataSource
+[INFO]2022-11-05 14:43:07,633 - {dataSource-23} inited
+[INFO]2022-11-05 14:43:07,703 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:07,735 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:43:07,746 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:07,761 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:43:07,763 - Started DemoApplication in 1.045 seconds (JVM running for 698.718)
+[INFO]2022-11-05 14:43:07,769 - Condition evaluation unchanged
+[INFO]2022-11-05 14:43:14,159 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:14,160 - {dataSource-23} closed
+[INFO]2022-11-05 14:43:14,445 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:43:14,446 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:43:15,264 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:43:15,265 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:15,265 - Starting service [Tomcat]
+[INFO]2022-11-05 14:43:15,265 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:43:15,321 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:43:15,327 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:43:15,327 - Root WebApplicationContext: initialization completed in 880 ms
+[INFO]2022-11-05 14:43:15,363 - Init DruidDataSource
+[INFO]2022-11-05 14:43:15,387 - {dataSource-24} inited
+[INFO]2022-11-05 14:43:15,464 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:15,519 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:43:15,538 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:15,553 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:43:15,554 - Started DemoApplication in 1.133 seconds (JVM running for 706.508)
+[INFO]2022-11-05 14:43:15,557 - Condition evaluation unchanged
+[INFO]2022-11-05 14:43:16,936 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:16,936 - {dataSource-24} closed
+[INFO]2022-11-05 14:43:17,228 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:43:17,229 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:43:18,013 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:43:18,013 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:18,014 - Starting service [Tomcat]
+[INFO]2022-11-05 14:43:18,014 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:43:18,070 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:43:18,072 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:43:18,072 - Root WebApplicationContext: initialization completed in 842 ms
+[INFO]2022-11-05 14:43:18,092 - Init DruidDataSource
+[INFO]2022-11-05 14:43:18,116 - {dataSource-25} inited
+[INFO]2022-11-05 14:43:18,168 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:18,206 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:43:18,223 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:18,230 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:43:18,230 - Started DemoApplication in 1.028 seconds (JVM running for 709.184)
+[INFO]2022-11-05 14:43:18,231 - Condition evaluation unchanged
+[INFO]2022-11-05 14:43:45,697 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:45,698 - {dataSource-25} closed
+[INFO]2022-11-05 14:43:46,099 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:43:46,099 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:43:46,901 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:43:46,902 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:46,902 - Starting service [Tomcat]
+[INFO]2022-11-05 14:43:46,902 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:43:46,935 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:43:46,937 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:43:46,938 - Root WebApplicationContext: initialization completed in 838 ms
+[INFO]2022-11-05 14:43:46,971 - Init DruidDataSource
+[INFO]2022-11-05 14:43:47,020 - {dataSource-26} inited
+[INFO]2022-11-05 14:43:47,073 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:43:47,125 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:43:47,135 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:43:47,140 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:43:47,141 - Started DemoApplication in 1.081 seconds (JVM running for 738.094)
+[INFO]2022-11-05 14:43:47,142 - Condition evaluation unchanged
+[INFO]2022-11-05 14:45:30,862 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:45:30,862 - {dataSource-26} closed
+[INFO]2022-11-05 14:45:31,192 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:45:31,194 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:45:32,172 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:45:32,173 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:45:32,174 - Starting service [Tomcat]
+[INFO]2022-11-05 14:45:32,174 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:45:32,221 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:45:32,222 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:45:32,223 - Root WebApplicationContext: initialization completed in 1027 ms
+[INFO]2022-11-05 14:45:32,265 - Init DruidDataSource
+[INFO]2022-11-05 14:45:32,295 - {dataSource-27} inited
+[INFO]2022-11-05 14:45:32,378 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:45:32,433 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:45:32,454 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:45:32,473 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:45:32,474 - Started DemoApplication in 1.307 seconds (JVM running for 843.424)
+[INFO]2022-11-05 14:45:32,475 - Condition evaluation unchanged
+[INFO]2022-11-05 14:45:35,843 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:45:35,844 - {dataSource-27} closed
+[INFO]2022-11-05 14:45:36,146 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:45:36,147 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:45:36,968 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:45:36,969 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:45:36,969 - Starting service [Tomcat]
+[INFO]2022-11-05 14:45:36,969 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:45:37,018 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:45:37,019 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:45:37,020 - Root WebApplicationContext: initialization completed in 872 ms
+[INFO]2022-11-05 14:45:37,044 - Init DruidDataSource
+[INFO]2022-11-05 14:45:37,069 - {dataSource-28} inited
+[INFO]2022-11-05 14:45:37,149 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:45:37,205 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:45:37,217 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:45:37,225 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:45:37,226 - Started DemoApplication in 1.098 seconds (JVM running for 848.176)
+[INFO]2022-11-05 14:45:37,227 - Condition evaluation unchanged
+[INFO]2022-11-05 14:46:05,722 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:46:05,723 - {dataSource-28} closed
+[INFO]2022-11-05 14:46:06,053 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:46:06,054 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:46:06,885 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:46:06,886 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:46:06,886 - Starting service [Tomcat]
+[INFO]2022-11-05 14:46:06,886 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:46:06,950 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:46:06,952 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:46:06,952 - Root WebApplicationContext: initialization completed in 897 ms
+[INFO]2022-11-05 14:46:06,988 - Init DruidDataSource
+[INFO]2022-11-05 14:46:07,024 - {dataSource-29} inited
+[INFO]2022-11-05 14:46:07,108 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:46:07,153 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:46:07,164 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:46:07,172 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:46:07,173 - Started DemoApplication in 1.144 seconds (JVM running for 878.122)
+[INFO]2022-11-05 14:46:07,174 - Condition evaluation unchanged
+[INFO]2022-11-05 14:46:32,632 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:46:32,633 - {dataSource-29} closed
+[INFO]2022-11-05 14:46:32,930 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:46:32,930 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:46:33,726 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:46:33,727 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:46:33,727 - Starting service [Tomcat]
+[INFO]2022-11-05 14:46:33,727 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:46:33,757 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:46:33,759 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:46:33,759 - Root WebApplicationContext: initialization completed in 827 ms
+[INFO]2022-11-05 14:46:33,782 - Init DruidDataSource
+[INFO]2022-11-05 14:46:33,809 - {dataSource-30} inited
+[INFO]2022-11-05 14:46:33,896 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:46:33,964 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:46:33,983 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:46:34,001 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:46:34,001 - Started DemoApplication in 1.097 seconds (JVM running for 904.95)
+[INFO]2022-11-05 14:46:34,003 - Condition evaluation unchanged
+[INFO]2022-11-05 14:47:28,556 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:47:28,556 - {dataSource-30} closed
+[INFO]2022-11-05 14:47:28,872 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:47:28,874 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:47:29,724 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:47:29,724 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:47:29,724 - Starting service [Tomcat]
+[INFO]2022-11-05 14:47:29,724 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:47:29,761 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:47:29,762 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:47:29,763 - Root WebApplicationContext: initialization completed in 888 ms
+[INFO]2022-11-05 14:47:29,779 - Init DruidDataSource
+[INFO]2022-11-05 14:47:29,794 - {dataSource-31} inited
+[INFO]2022-11-05 14:47:29,841 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:47:29,873 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:47:29,886 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:47:29,894 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:47:29,894 - Started DemoApplication in 1.051 seconds (JVM running for 960.842)
+[INFO]2022-11-05 14:47:29,896 - Condition evaluation unchanged
+[INFO]2022-11-05 14:47:52,352 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:47:52,353 - {dataSource-31} closed
+[INFO]2022-11-05 14:47:52,647 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:47:52,647 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:47:53,424 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:47:53,424 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:47:53,424 - Starting service [Tomcat]
+[INFO]2022-11-05 14:47:53,424 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:47:53,456 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:47:53,457 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:47:53,457 - Root WebApplicationContext: initialization completed in 808 ms
+[INFO]2022-11-05 14:47:53,486 - Init DruidDataSource
+[INFO]2022-11-05 14:47:53,505 - {dataSource-32} inited
+[INFO]2022-11-05 14:47:53,550 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:47:53,591 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:47:53,603 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:47:53,610 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:47:53,611 - Started DemoApplication in 0.989 seconds (JVM running for 984.557)
+[INFO]2022-11-05 14:47:53,612 - Condition evaluation unchanged
+[INFO]2022-11-05 14:48:03,045 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:03,045 - {dataSource-32} closed
+[INFO]2022-11-05 14:48:03,430 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:48:03,430 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:48:04,294 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:48:04,295 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:04,295 - Starting service [Tomcat]
+[INFO]2022-11-05 14:48:04,295 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:48:04,344 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:48:04,345 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:48:04,345 - Root WebApplicationContext: initialization completed in 913 ms
+[INFO]2022-11-05 14:48:04,373 - Init DruidDataSource
+[INFO]2022-11-05 14:48:04,394 - {dataSource-33} inited
+[INFO]2022-11-05 14:48:04,462 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:04,546 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:48:04,571 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:04,596 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:48:04,600 - Started DemoApplication in 1.196 seconds (JVM running for 995.547)
+[INFO]2022-11-05 14:48:04,609 - Condition evaluation unchanged
+[INFO]2022-11-05 14:48:20,991 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:20,992 - {dataSource-33} closed
+[INFO]2022-11-05 14:48:21,273 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:48:21,274 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:48:22,075 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:48:22,075 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:22,076 - Starting service [Tomcat]
+[INFO]2022-11-05 14:48:22,076 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:48:22,127 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:48:22,128 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:48:22,129 - Root WebApplicationContext: initialization completed in 854 ms
+[INFO]2022-11-05 14:48:22,172 - Init DruidDataSource
+[INFO]2022-11-05 14:48:22,205 - {dataSource-34} inited
+[INFO]2022-11-05 14:48:22,282 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:22,333 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:48:22,361 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:22,370 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:48:22,370 - Started DemoApplication in 1.122 seconds (JVM running for 1013.317)
+[INFO]2022-11-05 14:48:22,372 - Condition evaluation unchanged
+[INFO]2022-11-05 14:48:42,802 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:42,802 - {dataSource-34} closed
+[INFO]2022-11-05 14:48:43,109 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:48:43,109 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:48:43,910 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:48:43,911 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:43,911 - Starting service [Tomcat]
+[INFO]2022-11-05 14:48:43,911 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:48:43,949 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:48:43,951 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:48:43,951 - Root WebApplicationContext: initialization completed in 840 ms
+[INFO]2022-11-05 14:48:43,986 - Init DruidDataSource
+[INFO]2022-11-05 14:48:44,015 - {dataSource-35} inited
+[INFO]2022-11-05 14:48:44,111 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:44,162 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:48:44,177 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:44,194 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:48:44,195 - Started DemoApplication in 1.106 seconds (JVM running for 1035.14)
+[INFO]2022-11-05 14:48:44,196 - Condition evaluation unchanged
+[INFO]2022-11-05 14:48:48,575 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:48,576 - {dataSource-35} closed
+[INFO]2022-11-05 14:48:48,926 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:48:48,927 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:48:49,820 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:48:49,821 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:49,822 - Starting service [Tomcat]
+[INFO]2022-11-05 14:48:49,823 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:48:49,857 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:48:49,859 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:48:49,859 - Root WebApplicationContext: initialization completed in 930 ms
+[INFO]2022-11-05 14:48:49,885 - Init DruidDataSource
+[INFO]2022-11-05 14:48:49,921 - {dataSource-36} inited
+[INFO]2022-11-05 14:48:49,982 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:50,030 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:48:50,048 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:50,058 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:48:50,058 - Started DemoApplication in 1.168 seconds (JVM running for 1041.003)
+[INFO]2022-11-05 14:48:50,059 - Condition evaluation unchanged
+[INFO]2022-11-05 14:48:52,448 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:52,450 - {dataSource-36} closed
+[INFO]2022-11-05 14:48:52,855 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:48:52,856 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:48:53,653 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:48:53,654 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:53,654 - Starting service [Tomcat]
+[INFO]2022-11-05 14:48:53,654 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:48:53,700 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:48:53,702 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:48:53,703 - Root WebApplicationContext: initialization completed in 845 ms
+[INFO]2022-11-05 14:48:53,732 - Init DruidDataSource
+[INFO]2022-11-05 14:48:53,750 - {dataSource-37} inited
+[INFO]2022-11-05 14:48:53,809 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:48:53,841 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:48:53,856 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:48:53,883 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:48:53,884 - Started DemoApplication in 1.049 seconds (JVM running for 1044.829)
+[INFO]2022-11-05 14:48:53,885 - Condition evaluation unchanged
+[INFO]2022-11-05 14:49:07,280 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:07,280 - {dataSource-37} closed
+[INFO]2022-11-05 14:49:07,575 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:49:07,576 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:49:08,390 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:49:08,392 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:08,393 - Starting service [Tomcat]
+[INFO]2022-11-05 14:49:08,393 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:49:08,426 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:49:08,428 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:49:08,428 - Root WebApplicationContext: initialization completed in 848 ms
+[INFO]2022-11-05 14:49:08,452 - Init DruidDataSource
+[INFO]2022-11-05 14:49:08,476 - {dataSource-38} inited
+[INFO]2022-11-05 14:49:08,523 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:08,554 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:49:08,578 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:08,585 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:49:08,585 - Started DemoApplication in 1.029 seconds (JVM running for 1059.53)
+[INFO]2022-11-05 14:49:08,586 - Condition evaluation unchanged
+[INFO]2022-11-05 14:49:17,978 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:17,978 - {dataSource-38} closed
+[INFO]2022-11-05 14:49:18,280 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:49:18,280 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:49:19,069 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:49:19,069 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:19,070 - Starting service [Tomcat]
+[INFO]2022-11-05 14:49:19,070 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:49:19,109 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:49:19,110 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:49:19,110 - Root WebApplicationContext: initialization completed in 828 ms
+[INFO]2022-11-05 14:49:19,129 - Init DruidDataSource
+[INFO]2022-11-05 14:49:19,146 - {dataSource-39} inited
+[INFO]2022-11-05 14:49:19,201 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:19,232 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:49:19,248 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:19,259 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:49:19,259 - Started DemoApplication in 1.002 seconds (JVM running for 1070.203)
+[INFO]2022-11-05 14:49:19,260 - Condition evaluation unchanged
+[INFO]2022-11-05 14:49:22,649 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:22,650 - {dataSource-39} closed
+[INFO]2022-11-05 14:49:22,957 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:49:22,957 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:49:23,827 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:49:23,828 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:23,828 - Starting service [Tomcat]
+[INFO]2022-11-05 14:49:23,828 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:49:23,880 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:49:23,881 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:49:23,882 - Root WebApplicationContext: initialization completed in 923 ms
+[INFO]2022-11-05 14:49:23,930 - Init DruidDataSource
+[INFO]2022-11-05 14:49:23,950 - {dataSource-40} inited
+[INFO]2022-11-05 14:49:24,019 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:24,051 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:49:24,067 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:24,091 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:49:24,093 - Started DemoApplication in 1.16 seconds (JVM running for 1075.038)
+[INFO]2022-11-05 14:49:24,095 - Condition evaluation unchanged
+[INFO]2022-11-05 14:49:33,878 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:33,879 - {dataSource-40} closed
+[INFO]2022-11-05 14:49:34,197 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:49:34,199 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:49:35,003 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:49:35,006 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:35,010 - Starting service [Tomcat]
+[INFO]2022-11-05 14:49:35,010 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:49:35,038 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:49:35,039 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:49:35,039 - Root WebApplicationContext: initialization completed in 838 ms
+[INFO]2022-11-05 14:49:35,057 - Init DruidDataSource
+[INFO]2022-11-05 14:49:35,073 - {dataSource-41} inited
+[INFO]2022-11-05 14:49:35,126 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:35,157 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:49:35,166 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:35,171 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:49:35,172 - Started DemoApplication in 1.001 seconds (JVM running for 1086.115)
+[INFO]2022-11-05 14:49:35,172 - Condition evaluation unchanged
+[INFO]2022-11-05 14:49:37,561 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:37,562 - {dataSource-41} closed
+[INFO]2022-11-05 14:49:37,847 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:49:37,848 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:49:38,668 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:49:38,668 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:38,668 - Starting service [Tomcat]
+[INFO]2022-11-05 14:49:38,669 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:49:38,705 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:49:38,707 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:49:38,707 - Root WebApplicationContext: initialization completed in 857 ms
+[INFO]2022-11-05 14:49:38,729 - Init DruidDataSource
+[INFO]2022-11-05 14:49:38,744 - {dataSource-42} inited
+[INFO]2022-11-05 14:49:38,808 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:49:38,856 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:49:38,873 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:49:38,906 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:49:38,906 - Started DemoApplication in 1.078 seconds (JVM running for 1089.85)
+[INFO]2022-11-05 14:49:38,907 - Condition evaluation unchanged
+[INFO]2022-11-05 14:50:19,348 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:19,348 - {dataSource-42} closed
+[INFO]2022-11-05 14:50:19,669 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:50:19,670 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:50:20,444 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:50:20,445 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:20,445 - Starting service [Tomcat]
+[INFO]2022-11-05 14:50:20,445 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:50:20,492 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:50:20,493 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:50:20,493 - Root WebApplicationContext: initialization completed in 817 ms
+[INFO]2022-11-05 14:50:20,514 - Init DruidDataSource
+[INFO]2022-11-05 14:50:20,534 - {dataSource-43} inited
+[INFO]2022-11-05 14:50:20,591 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:20,639 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:50:20,657 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:20,686 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:50:20,687 - Started DemoApplication in 1.045 seconds (JVM running for 1131.63)
+[INFO]2022-11-05 14:50:20,692 - Condition evaluation unchanged
+[INFO]2022-11-05 14:50:23,043 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:23,043 - {dataSource-43} closed
+[INFO]2022-11-05 14:50:23,333 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:50:23,334 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:50:24,118 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:50:24,119 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:24,119 - Starting service [Tomcat]
+[INFO]2022-11-05 14:50:24,119 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:50:24,149 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:50:24,151 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:50:24,151 - Root WebApplicationContext: initialization completed in 815 ms
+[INFO]2022-11-05 14:50:24,182 - Init DruidDataSource
+[INFO]2022-11-05 14:50:24,204 - {dataSource-44} inited
+[INFO]2022-11-05 14:50:24,250 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:24,290 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:50:24,300 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:24,314 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:50:24,314 - Started DemoApplication in 0.997 seconds (JVM running for 1135.257)
+[INFO]2022-11-05 14:50:24,315 - Condition evaluation unchanged
+[INFO]2022-11-05 14:50:32,717 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:32,718 - {dataSource-44} closed
+[INFO]2022-11-05 14:50:33,016 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:50:33,016 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:50:33,895 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:50:33,896 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:33,897 - Starting service [Tomcat]
+[INFO]2022-11-05 14:50:33,897 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:50:33,945 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:50:33,947 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:50:33,947 - Root WebApplicationContext: initialization completed in 926 ms
+[INFO]2022-11-05 14:50:33,971 - Init DruidDataSource
+[INFO]2022-11-05 14:50:33,994 - {dataSource-45} inited
+[INFO]2022-11-05 14:50:34,056 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:34,091 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:50:34,117 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:34,126 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:50:34,127 - Started DemoApplication in 1.138 seconds (JVM running for 1145.069)
+[INFO]2022-11-05 14:50:34,128 - Condition evaluation unchanged
+[INFO]2022-11-05 14:50:46,546 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:46,547 - {dataSource-45} closed
+[INFO]2022-11-05 14:50:46,846 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:50:46,846 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:50:47,675 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:50:47,676 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:47,677 - Starting service [Tomcat]
+[INFO]2022-11-05 14:50:47,677 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:50:47,712 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:50:47,713 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:50:47,713 - Root WebApplicationContext: initialization completed in 865 ms
+[INFO]2022-11-05 14:50:47,736 - Init DruidDataSource
+[INFO]2022-11-05 14:50:47,752 - {dataSource-46} inited
+[INFO]2022-11-05 14:50:47,804 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:50:47,831 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:50:47,839 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:50:47,845 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:50:47,845 - Started DemoApplication in 1.017 seconds (JVM running for 1158.787)
+[INFO]2022-11-05 14:50:47,846 - Condition evaluation unchanged
+[INFO]2022-11-05 14:51:16,337 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:51:16,337 - {dataSource-46} closed
+[INFO]2022-11-05 14:51:16,713 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:51:16,714 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:51:17,584 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:51:17,585 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:51:17,585 - Starting service [Tomcat]
+[INFO]2022-11-05 14:51:17,585 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:51:17,618 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:51:17,619 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:51:17,619 - Root WebApplicationContext: initialization completed in 904 ms
+[INFO]2022-11-05 14:51:17,637 - Init DruidDataSource
+[INFO]2022-11-05 14:51:17,657 - {dataSource-47} inited
+[INFO]2022-11-05 14:51:17,719 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:51:17,759 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:51:17,785 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:51:17,799 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:51:17,799 - Started DemoApplication in 1.116 seconds (JVM running for 1188.741)
+[INFO]2022-11-05 14:51:17,801 - Condition evaluation unchanged
+[INFO]2022-11-05 14:51:30,214 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:51:30,215 - {dataSource-47} closed
+[INFO]2022-11-05 14:51:30,505 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:51:30,506 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:51:31,307 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:51:31,308 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:51:31,308 - Starting service [Tomcat]
+[INFO]2022-11-05 14:51:31,308 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:51:31,334 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:51:31,336 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:51:31,336 - Root WebApplicationContext: initialization completed in 829 ms
+[INFO]2022-11-05 14:51:31,360 - Init DruidDataSource
+[INFO]2022-11-05 14:51:31,377 - {dataSource-48} inited
+[INFO]2022-11-05 14:51:31,419 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:51:31,459 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:51:31,469 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:51:31,474 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:51:31,475 - Started DemoApplication in 0.985 seconds (JVM running for 1202.416)
+[INFO]2022-11-05 14:51:31,475 - Condition evaluation unchanged
+[INFO]2022-11-05 14:52:55,072 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:52:55,073 - {dataSource-48} closed
+[INFO]2022-11-05 14:52:55,416 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:52:55,417 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:52:56,203 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:52:56,203 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:52:56,204 - Starting service [Tomcat]
+[INFO]2022-11-05 14:52:56,204 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:52:56,237 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:52:56,238 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:52:56,238 - Root WebApplicationContext: initialization completed in 820 ms
+[INFO]2022-11-05 14:52:56,255 - Init DruidDataSource
+[INFO]2022-11-05 14:52:56,283 - {dataSource-49} inited
+[INFO]2022-11-05 14:52:56,323 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:52:56,371 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:52:56,386 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:52:56,394 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:52:56,395 - Started DemoApplication in 1.001 seconds (JVM running for 1287.333)
+[INFO]2022-11-05 14:52:56,396 - Condition evaluation unchanged
+[INFO]2022-11-05 14:53:48,912 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:53:48,914 - {dataSource-49} closed
+[INFO]2022-11-05 14:53:49,245 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:53:49,246 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:53:50,107 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:53:50,108 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:53:50,108 - Starting service [Tomcat]
+[INFO]2022-11-05 14:53:50,108 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:53:50,134 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:53:50,136 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:53:50,136 - Root WebApplicationContext: initialization completed in 887 ms
+[INFO]2022-11-05 14:53:50,161 - Init DruidDataSource
+[INFO]2022-11-05 14:53:50,177 - {dataSource-50} inited
+[INFO]2022-11-05 14:53:50,235 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:53:50,270 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:53:50,292 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:53:50,305 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:53:50,305 - Started DemoApplication in 1.089 seconds (JVM running for 1341.242)
+[INFO]2022-11-05 14:53:50,306 - Condition evaluation unchanged
+[INFO]2022-11-05 14:53:59,588 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:53:59,588 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:53:59,589 - Completed initialization in 1 ms
+[INFO]2022-11-05 14:55:01,902 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:55:01,902 - {dataSource-50} closed
+[INFO]2022-11-05 14:55:02,293 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:55:02,294 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:55:03,196 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:55:03,196 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:55:03,197 - Starting service [Tomcat]
+[INFO]2022-11-05 14:55:03,197 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:55:03,237 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:55:03,238 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:55:03,238 - Root WebApplicationContext: initialization completed in 942 ms
+[INFO]2022-11-05 14:55:03,255 - Init DruidDataSource
+[INFO]2022-11-05 14:55:03,277 - {dataSource-51} inited
+[INFO]2022-11-05 14:55:03,333 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:55:03,357 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:55:03,371 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:55:03,377 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:55:03,378 - Started DemoApplication in 1.117 seconds (JVM running for 1414.313)
+[INFO]2022-11-05 14:55:03,379 - Condition evaluation unchanged
+[INFO]2022-11-05 14:55:41,321 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:55:41,322 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:55:41,324 - Completed initialization in 2 ms
+[INFO]2022-11-05 14:58:09,387 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:58:09,392 - {dataSource-51} closed
+[INFO]2022-11-05 14:58:09,728 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:58:09,729 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:58:10,490 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:58:10,490 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:58:10,491 - Starting service [Tomcat]
+[INFO]2022-11-05 14:58:10,491 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:58:10,518 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:58:10,520 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:58:10,520 - Root WebApplicationContext: initialization completed in 789 ms
+[INFO]2022-11-05 14:58:10,538 - Init DruidDataSource
+[INFO]2022-11-05 14:58:10,566 - {dataSource-52} inited
+[INFO]2022-11-05 14:58:10,623 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:58:10,667 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:58:10,689 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:58:10,699 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:58:10,700 - Started DemoApplication in 0.993 seconds (JVM running for 1601.63)
+[INFO]2022-11-05 14:58:10,701 - Condition evaluation unchanged
+[INFO]2022-11-05 14:58:21,846 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:58:21,847 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:58:21,854 - Completed initialization in 7 ms
+[INFO]2022-11-05 14:58:59,255 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:58:59,256 - {dataSource-52} closed
+[INFO]2022-11-05 14:58:59,607 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 14:58:59,607 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 14:59:00,430 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 14:59:00,431 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:59:00,432 - Starting service [Tomcat]
+[INFO]2022-11-05 14:59:00,432 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 14:59:00,473 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 14:59:00,474 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 14:59:00,474 - Root WebApplicationContext: initialization completed in 865 ms
+[INFO]2022-11-05 14:59:00,502 - Init DruidDataSource
+[INFO]2022-11-05 14:59:00,530 - {dataSource-53} inited
+[INFO]2022-11-05 14:59:00,591 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 14:59:00,615 - LiveReload server is running on port 35729
+[INFO]2022-11-05 14:59:00,625 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 14:59:00,635 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 14:59:00,636 - Started DemoApplication in 1.046 seconds (JVM running for 1651.565)
+[INFO]2022-11-05 14:59:00,640 - Condition evaluation unchanged
+[INFO]2022-11-05 14:59:00,743 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 14:59:00,743 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 14:59:00,747 - Completed initialization in 4 ms
+[INFO]2022-11-05 15:09:43,790 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:09:43,791 - {dataSource-53} closed
+[INFO]2022-11-05 15:09:44,207 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:09:44,208 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:09:44,976 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:09:44,977 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:09:44,977 - Starting service [Tomcat]
+[INFO]2022-11-05 15:09:44,977 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:09:45,025 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:09:45,026 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:09:45,026 - Root WebApplicationContext: initialization completed in 817 ms
+[INFO]2022-11-05 15:09:45,056 - Init DruidDataSource
+[INFO]2022-11-05 15:09:45,080 - {dataSource-54} inited
+[INFO]2022-11-05 15:09:45,139 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:09:45,166 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:09:45,175 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:09:45,190 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:09:45,190 - Started DemoApplication in 1.012 seconds (JVM running for 2296.101)
+[INFO]2022-11-05 15:09:45,191 - Condition evaluation unchanged
+[INFO]2022-11-05 15:10:03,596 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:03,597 - {dataSource-54} closed
+[INFO]2022-11-05 15:10:03,934 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:10:03,935 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:10:04,749 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:10:04,749 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:04,749 - Starting service [Tomcat]
+[INFO]2022-11-05 15:10:04,749 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:10:04,778 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:10:04,780 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:10:04,780 - Root WebApplicationContext: initialization completed in 843 ms
+[INFO]2022-11-05 15:10:04,804 - Init DruidDataSource
+[INFO]2022-11-05 15:10:04,841 - {dataSource-55} inited
+[INFO]2022-11-05 15:10:04,885 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:04,937 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:10:04,949 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:04,958 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:10:04,959 - Started DemoApplication in 1.056 seconds (JVM running for 2315.87)
+[INFO]2022-11-05 15:10:04,960 - Condition evaluation unchanged
+[INFO]2022-11-05 15:10:19,378 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:19,378 - {dataSource-55} closed
+[INFO]2022-11-05 15:10:19,709 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:10:19,710 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:10:20,582 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:10:20,583 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:20,583 - Starting service [Tomcat]
+[INFO]2022-11-05 15:10:20,583 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:10:20,629 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:10:20,632 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:10:20,632 - Root WebApplicationContext: initialization completed in 921 ms
+[INFO]2022-11-05 15:10:20,656 - Init DruidDataSource
+[INFO]2022-11-05 15:10:20,690 - {dataSource-56} inited
+[INFO]2022-11-05 15:10:20,748 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:20,803 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:10:20,818 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:20,829 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:10:20,829 - Started DemoApplication in 1.136 seconds (JVM running for 2331.74)
+[INFO]2022-11-05 15:10:20,834 - Condition evaluation unchanged
+[INFO]2022-11-05 15:10:48,289 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:48,290 - {dataSource-56} closed
+[INFO]2022-11-05 15:10:48,571 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:10:48,572 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:10:49,383 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:10:49,383 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:49,384 - Starting service [Tomcat]
+[INFO]2022-11-05 15:10:49,384 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:10:49,420 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:10:49,422 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:10:49,422 - Root WebApplicationContext: initialization completed in 848 ms
+[INFO]2022-11-05 15:10:49,440 - Init DruidDataSource
+[INFO]2022-11-05 15:10:49,461 - {dataSource-57} inited
+[INFO]2022-11-05 15:10:49,513 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:49,536 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:10:49,548 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:49,556 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:10:49,556 - Started DemoApplication in 1.003 seconds (JVM running for 2360.466)
+[INFO]2022-11-05 15:10:49,557 - Condition evaluation unchanged
+[INFO]2022-11-05 15:10:54,945 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:54,946 - {dataSource-57} closed
+[INFO]2022-11-05 15:10:55,248 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:10:55,248 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:10:56,029 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:10:56,029 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:56,030 - Starting service [Tomcat]
+[INFO]2022-11-05 15:10:56,030 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:10:56,064 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:10:56,066 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:10:56,066 - Root WebApplicationContext: initialization completed in 816 ms
+[INFO]2022-11-05 15:10:56,092 - Init DruidDataSource
+[INFO]2022-11-05 15:10:56,112 - {dataSource-58} inited
+[INFO]2022-11-05 15:10:56,169 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:10:56,225 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:10:56,237 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:10:56,246 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:10:56,246 - Started DemoApplication in 1.019 seconds (JVM running for 2367.156)
+[INFO]2022-11-05 15:10:56,247 - Condition evaluation unchanged
+[INFO]2022-11-05 15:11:24,736 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:11:24,737 - {dataSource-58} closed
+[INFO]2022-11-05 15:11:25,033 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:11:25,034 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:11:25,836 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:11:25,837 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:11:25,838 - Starting service [Tomcat]
+[INFO]2022-11-05 15:11:25,838 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:11:25,870 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:11:25,871 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:11:25,871 - Root WebApplicationContext: initialization completed in 836 ms
+[INFO]2022-11-05 15:11:25,905 - Init DruidDataSource
+[INFO]2022-11-05 15:11:25,925 - {dataSource-59} inited
+[INFO]2022-11-05 15:11:25,983 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:11:26,018 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:11:26,030 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:11:26,036 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:11:26,037 - Started DemoApplication in 1.018 seconds (JVM running for 2396.945)
+[INFO]2022-11-05 15:11:26,037 - Condition evaluation unchanged
+[INFO]2022-11-05 15:11:49,505 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:11:49,506 - {dataSource-59} closed
+[INFO]2022-11-05 15:11:49,835 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:11:49,836 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:11:50,618 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:11:50,619 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:11:50,619 - Starting service [Tomcat]
+[INFO]2022-11-05 15:11:50,619 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:11:50,654 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:11:50,660 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:11:50,661 - Root WebApplicationContext: initialization completed in 822 ms
+[INFO]2022-11-05 15:11:50,683 - Init DruidDataSource
+[INFO]2022-11-05 15:11:50,703 - {dataSource-60} inited
+[INFO]2022-11-05 15:11:50,752 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:11:50,778 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:11:50,793 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:11:50,799 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:11:50,799 - Started DemoApplication in 0.981 seconds (JVM running for 2421.707)
+[INFO]2022-11-05 15:11:50,800 - Condition evaluation unchanged
+[INFO]2022-11-05 15:12:51,382 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:12:51,382 - {dataSource-60} closed
+[INFO]2022-11-05 15:12:51,759 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:12:51,760 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:12:52,569 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:12:52,570 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:12:52,570 - Starting service [Tomcat]
+[INFO]2022-11-05 15:12:52,570 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:12:52,598 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:12:52,599 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:12:52,599 - Root WebApplicationContext: initialization completed in 838 ms
+[INFO]2022-11-05 15:12:52,623 - Init DruidDataSource
+[INFO]2022-11-05 15:12:52,645 - {dataSource-61} inited
+[INFO]2022-11-05 15:12:52,696 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:12:52,740 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:12:52,751 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:12:52,759 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:12:52,759 - Started DemoApplication in 1.021 seconds (JVM running for 2483.666)
+[INFO]2022-11-05 15:12:52,761 - Condition evaluation unchanged
+[INFO]2022-11-05 15:13:00,214 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 15:13:00,214 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 15:13:00,219 - Completed initialization in 4 ms
+[INFO]2022-11-05 15:13:42,266 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:13:42,268 - {dataSource-61} closed
+[INFO]2022-11-05 15:13:42,580 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:13:42,580 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:13:43,381 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:13:43,382 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:13:43,382 - Starting service [Tomcat]
+[INFO]2022-11-05 15:13:43,382 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:13:43,427 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:13:43,430 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:13:43,430 - Root WebApplicationContext: initialization completed in 849 ms
+[INFO]2022-11-05 15:13:43,459 - Init DruidDataSource
+[INFO]2022-11-05 15:13:43,482 - {dataSource-62} inited
+[INFO]2022-11-05 15:13:43,545 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:13:43,582 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:13:43,603 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:13:43,616 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:13:43,617 - Started DemoApplication in 1.058 seconds (JVM running for 2534.523)
+[INFO]2022-11-05 15:13:43,621 - Condition evaluation unchanged
+[INFO]2022-11-05 15:14:33,076 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 15:14:33,076 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 15:14:33,081 - Completed initialization in 5 ms
+[INFO]2022-11-05 15:22:48,701 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:22:48,702 - {dataSource-62} closed
+[INFO]2022-11-05 15:22:49,079 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:22:49,080 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:22:49,881 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:22:49,881 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:22:49,881 - Starting service [Tomcat]
+[INFO]2022-11-05 15:22:49,881 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:22:49,920 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:22:49,921 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:22:49,921 - Root WebApplicationContext: initialization completed in 839 ms
+[INFO]2022-11-05 15:22:49,939 - Init DruidDataSource
+[INFO]2022-11-05 15:22:49,959 - {dataSource-63} inited
+[INFO]2022-11-05 15:22:50,009 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:22:50,038 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:22:50,052 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:22:50,060 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:22:50,060 - Started DemoApplication in 0.998 seconds (JVM running for 3080.951)
+[INFO]2022-11-05 15:22:50,061 - Condition evaluation unchanged
+[INFO]2022-11-05 15:23:07,908 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:07,909 - {dataSource-63} closed
+[INFO]2022-11-05 15:23:08,218 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:23:08,218 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:23:09,011 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:23:09,012 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:09,013 - Starting service [Tomcat]
+[INFO]2022-11-05 15:23:09,013 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:23:09,049 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:23:09,050 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:23:09,050 - Root WebApplicationContext: initialization completed in 830 ms
+[INFO]2022-11-05 15:23:09,100 - Init DruidDataSource
+[INFO]2022-11-05 15:23:09,125 - {dataSource-64} inited
+[INFO]2022-11-05 15:23:09,221 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:09,292 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:23:09,310 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:09,316 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:23:09,316 - Started DemoApplication in 1.116 seconds (JVM running for 3100.206)
+[INFO]2022-11-05 15:23:09,317 - Condition evaluation unchanged
+[INFO]2022-11-05 15:23:21,733 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:21,734 - {dataSource-64} closed
+[INFO]2022-11-05 15:23:22,033 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:23:22,033 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:23:22,791 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:23:22,792 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:22,792 - Starting service [Tomcat]
+[INFO]2022-11-05 15:23:22,792 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:23:22,826 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:23:22,827 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:23:22,828 - Root WebApplicationContext: initialization completed in 794 ms
+[INFO]2022-11-05 15:23:22,866 - Init DruidDataSource
+[INFO]2022-11-05 15:23:22,890 - {dataSource-65} inited
+[INFO]2022-11-05 15:23:22,946 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:22,987 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:23:23,000 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:23,008 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:23:23,009 - Started DemoApplication in 0.994 seconds (JVM running for 3113.898)
+[INFO]2022-11-05 15:23:23,010 - Condition evaluation unchanged
+[INFO]2022-11-05 15:23:25,394 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:25,395 - {dataSource-65} closed
+[INFO]2022-11-05 15:23:25,701 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:23:25,702 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:23:26,533 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:23:26,534 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:26,534 - Starting service [Tomcat]
+[INFO]2022-11-05 15:23:26,534 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:23:26,566 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:23:26,567 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:23:26,568 - Root WebApplicationContext: initialization completed in 864 ms
+[INFO]2022-11-05 15:23:26,587 - Init DruidDataSource
+[INFO]2022-11-05 15:23:26,605 - {dataSource-66} inited
+[INFO]2022-11-05 15:23:26,664 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:26,700 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:23:26,711 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:26,721 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:23:26,722 - Started DemoApplication in 1.038 seconds (JVM running for 3117.611)
+[INFO]2022-11-05 15:23:26,723 - Condition evaluation unchanged
+[INFO]2022-11-05 15:23:48,157 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:48,158 - {dataSource-66} closed
+[INFO]2022-11-05 15:23:48,480 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:23:48,481 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:23:49,379 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:23:49,379 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:49,379 - Starting service [Tomcat]
+[INFO]2022-11-05 15:23:49,379 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:23:49,426 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:23:49,427 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:23:49,428 - Root WebApplicationContext: initialization completed in 946 ms
+[INFO]2022-11-05 15:23:49,456 - Init DruidDataSource
+[INFO]2022-11-05 15:23:49,477 - {dataSource-67} inited
+[INFO]2022-11-05 15:23:49,540 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:23:49,574 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:23:49,595 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:23:49,606 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:23:49,607 - Started DemoApplication in 1.144 seconds (JVM running for 3140.496)
+[INFO]2022-11-05 15:23:49,608 - Condition evaluation unchanged
+[INFO]2022-11-05 15:24:04,015 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:04,015 - {dataSource-67} closed
+[INFO]2022-11-05 15:24:04,321 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:24:04,321 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:24:05,248 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:24:05,249 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:05,249 - Starting service [Tomcat]
+[INFO]2022-11-05 15:24:05,249 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:24:05,302 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:24:05,303 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:24:05,303 - Root WebApplicationContext: initialization completed in 979 ms
+[INFO]2022-11-05 15:24:05,325 - Init DruidDataSource
+[INFO]2022-11-05 15:24:05,347 - {dataSource-68} inited
+[INFO]2022-11-05 15:24:05,408 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:05,452 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:24:05,470 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:05,479 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:24:05,480 - Started DemoApplication in 1.185 seconds (JVM running for 3156.368)
+[INFO]2022-11-05 15:24:05,481 - Condition evaluation unchanged
+[INFO]2022-11-05 15:24:12,876 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:12,876 - {dataSource-68} closed
+[INFO]2022-11-05 15:24:13,182 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:24:13,182 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:24:13,992 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:24:13,992 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:13,993 - Starting service [Tomcat]
+[INFO]2022-11-05 15:24:13,993 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:24:14,023 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:24:14,025 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:24:14,025 - Root WebApplicationContext: initialization completed in 842 ms
+[INFO]2022-11-05 15:24:14,057 - Init DruidDataSource
+[INFO]2022-11-05 15:24:14,079 - {dataSource-69} inited
+[INFO]2022-11-05 15:24:14,140 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:14,167 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:24:14,179 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:14,185 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:24:14,185 - Started DemoApplication in 1.026 seconds (JVM running for 3165.073)
+[INFO]2022-11-05 15:24:14,186 - Condition evaluation unchanged
+[INFO]2022-11-05 15:24:27,621 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:27,622 - {dataSource-69} closed
+[INFO]2022-11-05 15:24:27,932 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:24:27,933 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:24:28,756 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:24:28,757 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:28,757 - Starting service [Tomcat]
+[INFO]2022-11-05 15:24:28,757 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:24:28,813 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:24:28,815 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:24:28,815 - Root WebApplicationContext: initialization completed in 881 ms
+[INFO]2022-11-05 15:24:28,843 - Init DruidDataSource
+[INFO]2022-11-05 15:24:28,885 - {dataSource-70} inited
+[INFO]2022-11-05 15:24:28,957 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:29,024 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:24:29,041 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:29,064 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:24:29,064 - Started DemoApplication in 1.151 seconds (JVM running for 3179.953)
+[INFO]2022-11-05 15:24:29,067 - Condition evaluation unchanged
+[INFO]2022-11-05 15:24:42,474 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:42,475 - {dataSource-70} closed
+[INFO]2022-11-05 15:24:42,784 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:24:42,784 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:24:43,647 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:24:43,647 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:43,648 - Starting service [Tomcat]
+[INFO]2022-11-05 15:24:43,648 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:24:43,685 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:24:43,686 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:24:43,686 - Root WebApplicationContext: initialization completed in 901 ms
+[INFO]2022-11-05 15:24:43,706 - Init DruidDataSource
+[INFO]2022-11-05 15:24:43,734 - {dataSource-71} inited
+[INFO]2022-11-05 15:24:43,798 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:24:43,834 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:24:43,847 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:24:43,855 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:24:43,855 - Started DemoApplication in 1.091 seconds (JVM running for 3194.743)
+[INFO]2022-11-05 15:24:43,856 - Condition evaluation unchanged
+[INFO]2022-11-05 15:25:01,333 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:01,334 - {dataSource-71} closed
+[INFO]2022-11-05 15:25:01,642 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:25:01,643 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:25:02,500 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:25:02,501 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:02,502 - Starting service [Tomcat]
+[INFO]2022-11-05 15:25:02,502 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:25:02,543 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:25:02,545 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:25:02,545 - Root WebApplicationContext: initialization completed in 900 ms
+[INFO]2022-11-05 15:25:02,587 - Init DruidDataSource
+[INFO]2022-11-05 15:25:02,614 - {dataSource-72} inited
+[INFO]2022-11-05 15:25:02,677 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:02,706 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:25:02,718 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:02,724 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:25:02,724 - Started DemoApplication in 1.103 seconds (JVM running for 3213.612)
+[INFO]2022-11-05 15:25:02,725 - Condition evaluation unchanged
+[INFO]2022-11-05 15:25:17,176 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:17,177 - {dataSource-72} closed
+[INFO]2022-11-05 15:25:17,501 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:25:17,501 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:25:18,264 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:25:18,264 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:18,265 - Starting service [Tomcat]
+[INFO]2022-11-05 15:25:18,265 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:25:18,298 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:25:18,300 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:25:18,300 - Root WebApplicationContext: initialization completed in 795 ms
+[INFO]2022-11-05 15:25:18,333 - Init DruidDataSource
+[INFO]2022-11-05 15:25:18,348 - {dataSource-73} inited
+[INFO]2022-11-05 15:25:18,420 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:18,453 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:25:18,463 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:18,469 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:25:18,469 - Started DemoApplication in 0.985 seconds (JVM running for 3229.356)
+[INFO]2022-11-05 15:25:18,470 - Condition evaluation unchanged
+[INFO]2022-11-05 15:25:20,864 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:20,864 - {dataSource-73} closed
+[INFO]2022-11-05 15:25:21,160 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:25:21,161 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:25:22,207 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:25:22,208 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:22,208 - Starting service [Tomcat]
+[INFO]2022-11-05 15:25:22,209 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:25:22,254 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:25:22,255 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:25:22,255 - Root WebApplicationContext: initialization completed in 1093 ms
+[INFO]2022-11-05 15:25:22,301 - Init DruidDataSource
+[INFO]2022-11-05 15:25:22,334 - {dataSource-74} inited
+[INFO]2022-11-05 15:25:22,411 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:25:22,450 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:25:22,472 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:25:22,478 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:25:22,479 - Started DemoApplication in 1.333 seconds (JVM running for 3233.365)
+[INFO]2022-11-05 15:25:22,480 - Condition evaluation unchanged
+[INFO]2022-11-05 15:26:03,993 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:03,993 - {dataSource-74} closed
+[INFO]2022-11-05 15:26:04,296 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:26:04,297 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:26:05,097 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:26:05,098 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:05,098 - Starting service [Tomcat]
+[INFO]2022-11-05 15:26:05,099 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:26:05,128 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:26:05,130 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:26:05,130 - Root WebApplicationContext: initialization completed in 831 ms
+[INFO]2022-11-05 15:26:05,178 - Init DruidDataSource
+[INFO]2022-11-05 15:26:05,209 - {dataSource-75} inited
+[INFO]2022-11-05 15:26:05,280 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:05,348 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:26:05,369 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:05,376 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:26:05,376 - Started DemoApplication in 1.101 seconds (JVM running for 3276.262)
+[INFO]2022-11-05 15:26:05,377 - Condition evaluation unchanged
+[INFO]2022-11-05 15:26:08,766 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:08,767 - {dataSource-75} closed
+[INFO]2022-11-05 15:26:09,089 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:26:09,089 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:26:10,248 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:26:10,248 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:10,248 - Starting service [Tomcat]
+[INFO]2022-11-05 15:26:10,248 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:26:10,299 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:26:10,302 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:26:10,302 - Root WebApplicationContext: initialization completed in 1211 ms
+[INFO]2022-11-05 15:26:10,337 - Init DruidDataSource
+[INFO]2022-11-05 15:26:10,354 - {dataSource-76} inited
+[INFO]2022-11-05 15:26:10,444 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:10,484 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:26:10,496 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:10,504 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:26:10,505 - Started DemoApplication in 1.436 seconds (JVM running for 3281.39)
+[INFO]2022-11-05 15:26:10,506 - Condition evaluation unchanged
+[INFO]2022-11-05 15:26:12,935 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:12,935 - {dataSource-76} closed
+[INFO]2022-11-05 15:26:13,287 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:26:13,287 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:26:14,438 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:26:14,439 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:14,439 - Starting service [Tomcat]
+[INFO]2022-11-05 15:26:14,439 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:26:14,488 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:26:14,489 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:26:14,490 - Root WebApplicationContext: initialization completed in 1201 ms
+[INFO]2022-11-05 15:26:14,526 - Init DruidDataSource
+[INFO]2022-11-05 15:26:14,548 - {dataSource-77} inited
+[INFO]2022-11-05 15:26:14,599 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:14,644 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:26:14,659 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:14,665 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:26:14,665 - Started DemoApplication in 1.399 seconds (JVM running for 3285.551)
+[INFO]2022-11-05 15:26:14,666 - Condition evaluation unchanged
+[INFO]2022-11-05 15:26:20,063 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:20,065 - {dataSource-77} closed
+[INFO]2022-11-05 15:26:20,358 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:26:20,359 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:26:21,225 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:26:21,226 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:21,226 - Starting service [Tomcat]
+[INFO]2022-11-05 15:26:21,226 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:26:21,275 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:26:21,278 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:26:21,278 - Root WebApplicationContext: initialization completed in 913 ms
+[INFO]2022-11-05 15:26:21,305 - Init DruidDataSource
+[INFO]2022-11-05 15:26:21,337 - {dataSource-78} inited
+[INFO]2022-11-05 15:26:21,412 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:21,464 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:26:21,479 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:21,497 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:26:21,499 - Started DemoApplication in 1.163 seconds (JVM running for 3292.383)
+[INFO]2022-11-05 15:26:21,500 - Condition evaluation unchanged
+[INFO]2022-11-05 15:26:23,887 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:23,888 - {dataSource-78} closed
+[INFO]2022-11-05 15:26:24,195 - Starting DemoApplication on 325PC- with PID 8468 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:26:24,195 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:26:25,059 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:26:25,060 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:25,060 - Starting service [Tomcat]
+[INFO]2022-11-05 15:26:25,060 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:26:25,106 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:26:25,107 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:26:25,107 - Root WebApplicationContext: initialization completed in 910 ms
+[INFO]2022-11-05 15:26:25,124 - Init DruidDataSource
+[INFO]2022-11-05 15:26:25,148 - {dataSource-79} inited
+[INFO]2022-11-05 15:26:25,186 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:26:25,209 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:26:25,222 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:26:25,235 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:26:25,237 - Started DemoApplication in 1.058 seconds (JVM running for 3296.122)
+[INFO]2022-11-05 15:26:25,239 - Condition evaluation unchanged
+[INFO]2022-11-05 15:28:53,268 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 15:28:53,269 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 15:28:53,273 - Completed initialization in 4 ms
+[INFO]2022-11-05 15:29:20,369 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:29:20,375 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:29:20,558 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-05 15:29:20,558 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-05 15:29:24,761 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:29:24,780 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:29:24,797 - Starting service [Tomcat]
+[INFO]2022-11-05 15:29:24,797 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:29:25,322 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:29:25,333 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:29:25,335 - Root WebApplicationContext: initialization completed in 4775 ms
+[INFO]2022-11-05 15:29:25,495 - Init DruidDataSource
+[INFO]2022-11-05 15:29:25,736 - {dataSource-1} inited
+[INFO]2022-11-05 15:29:26,441 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:29:26,873 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:29:26,928 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:29:27,006 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:29:27,011 - Started DemoApplication in 7.415 seconds (JVM running for 8.114)
+[INFO]2022-11-05 15:29:35,567 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 15:29:35,567 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 15:29:35,578 - Completed initialization in 11 ms
+[INFO]2022-11-05 15:32:22,087 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:22,093 - {dataSource-1} closed
+[INFO]2022-11-05 15:32:22,587 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:32:22,588 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:32:24,419 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:32:24,425 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:24,426 - Starting service [Tomcat]
+[INFO]2022-11-05 15:32:24,427 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:32:24,537 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:32:24,539 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:32:24,539 - Root WebApplicationContext: initialization completed in 1948 ms
+[WARN]2022-11-05 15:32:24,573 - Cannot deserialize session attribute [userList] for session [FCD37A966F4BFA2EBC8A7F1BEB8DDF67]
+[INFO]2022-11-05 15:32:24,607 - Init DruidDataSource
+[INFO]2022-11-05 15:32:24,679 - {dataSource-2} inited
+[INFO]2022-11-05 15:32:24,807 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:24,903 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:32:24,931 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:24,958 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:32:24,959 - Started DemoApplication in 2.428 seconds (JVM running for 186.057)
+[INFO]2022-11-05 15:32:24,962 - Condition evaluation unchanged
+[INFO]2022-11-05 15:32:41,337 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:41,341 - {dataSource-2} closed
+[INFO]2022-11-05 15:32:41,696 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:32:41,696 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:32:43,330 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:32:43,331 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:43,331 - Starting service [Tomcat]
+[INFO]2022-11-05 15:32:43,332 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:32:43,441 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:32:43,443 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:32:43,443 - Root WebApplicationContext: initialization completed in 1745 ms
+[INFO]2022-11-05 15:32:43,491 - Init DruidDataSource
+[INFO]2022-11-05 15:32:43,605 - {dataSource-3} inited
+[INFO]2022-11-05 15:32:43,742 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:43,797 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:32:43,821 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:43,834 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:32:43,835 - Started DemoApplication in 2.179 seconds (JVM running for 204.932)
+[INFO]2022-11-05 15:32:43,838 - Condition evaluation unchanged
+[INFO]2022-11-05 15:32:45,206 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:45,207 - {dataSource-3} closed
+[INFO]2022-11-05 15:32:45,549 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:32:45,557 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:32:46,738 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:32:46,740 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:46,741 - Starting service [Tomcat]
+[INFO]2022-11-05 15:32:46,741 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:32:46,823 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:32:46,825 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:32:46,825 - Root WebApplicationContext: initialization completed in 1261 ms
+[INFO]2022-11-05 15:32:46,873 - Init DruidDataSource
+[INFO]2022-11-05 15:32:46,926 - {dataSource-4} inited
+[INFO]2022-11-05 15:32:47,012 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:32:47,167 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:32:47,196 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:32:47,210 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:32:47,210 - Started DemoApplication in 1.693 seconds (JVM running for 208.308)
+[INFO]2022-11-05 15:32:47,213 - Condition evaluation unchanged
+[INFO]2022-11-05 15:33:05,709 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:05,711 - {dataSource-4} closed
+[INFO]2022-11-05 15:33:05,996 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:33:05,997 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:33:07,195 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:33:07,197 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:07,198 - Starting service [Tomcat]
+[INFO]2022-11-05 15:33:07,198 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:33:07,303 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:33:07,305 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:33:07,305 - Root WebApplicationContext: initialization completed in 1305 ms
+[INFO]2022-11-05 15:33:07,348 - Init DruidDataSource
+[INFO]2022-11-05 15:33:07,397 - {dataSource-5} inited
+[INFO]2022-11-05 15:33:07,494 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:07,600 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:33:07,619 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:07,634 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:33:07,636 - Started DemoApplication in 1.669 seconds (JVM running for 228.733)
+[INFO]2022-11-05 15:33:07,638 - Condition evaluation unchanged
+[INFO]2022-11-05 15:33:09,004 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:09,006 - {dataSource-5} closed
+[INFO]2022-11-05 15:33:09,311 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:33:09,311 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:33:10,248 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:33:10,249 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:10,249 - Starting service [Tomcat]
+[INFO]2022-11-05 15:33:10,250 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:33:10,330 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:33:10,332 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:33:10,333 - Root WebApplicationContext: initialization completed in 1020 ms
+[INFO]2022-11-05 15:33:10,377 - Init DruidDataSource
+[INFO]2022-11-05 15:33:10,409 - {dataSource-6} inited
+[INFO]2022-11-05 15:33:10,508 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:10,573 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:33:10,592 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:10,606 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:33:10,606 - Started DemoApplication in 1.326 seconds (JVM running for 231.703)
+[INFO]2022-11-05 15:33:10,608 - Condition evaluation unchanged
+[INFO]2022-11-05 15:33:30,038 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:30,039 - {dataSource-6} closed
+[INFO]2022-11-05 15:33:30,357 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:33:30,357 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:33:31,272 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:33:31,273 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:31,273 - Starting service [Tomcat]
+[INFO]2022-11-05 15:33:31,274 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:33:31,386 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:33:31,389 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:33:31,389 - Root WebApplicationContext: initialization completed in 1027 ms
+[INFO]2022-11-05 15:33:31,450 - Init DruidDataSource
+[INFO]2022-11-05 15:33:31,482 - {dataSource-7} inited
+[INFO]2022-11-05 15:33:31,582 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:31,645 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:33:31,669 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:31,693 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:33:31,694 - Started DemoApplication in 1.383 seconds (JVM running for 252.79)
+[INFO]2022-11-05 15:33:31,696 - Condition evaluation unchanged
+[INFO]2022-11-05 15:33:40,087 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:40,088 - {dataSource-7} closed
+[INFO]2022-11-05 15:33:40,403 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:33:40,403 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:33:41,293 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:33:41,294 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:41,294 - Starting service [Tomcat]
+[INFO]2022-11-05 15:33:41,295 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:33:41,375 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:33:41,381 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:33:41,382 - Root WebApplicationContext: initialization completed in 977 ms
+[INFO]2022-11-05 15:33:41,416 - Init DruidDataSource
+[INFO]2022-11-05 15:33:41,462 - {dataSource-8} inited
+[INFO]2022-11-05 15:33:41,548 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:33:41,592 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:33:41,604 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:33:41,614 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:33:41,615 - Started DemoApplication in 1.237 seconds (JVM running for 262.711)
+[INFO]2022-11-05 15:33:41,616 - Condition evaluation unchanged
+[INFO]2022-11-05 15:34:42,165 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:34:42,165 - {dataSource-8} closed
+[INFO]2022-11-05 15:34:42,519 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:34:42,520 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:34:43,320 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:34:43,323 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:34:43,325 - Starting service [Tomcat]
+[INFO]2022-11-05 15:34:43,325 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:34:43,389 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:34:43,391 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:34:43,391 - Root WebApplicationContext: initialization completed in 869 ms
+[INFO]2022-11-05 15:34:43,430 - Init DruidDataSource
+[INFO]2022-11-05 15:34:43,462 - {dataSource-9} inited
+[INFO]2022-11-05 15:34:43,544 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:34:43,605 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:34:43,618 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:34:43,631 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:34:43,632 - Started DemoApplication in 1.149 seconds (JVM running for 324.725)
+[INFO]2022-11-05 15:34:43,633 - Condition evaluation unchanged
+[INFO]2022-11-05 15:35:00,087 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:00,088 - {dataSource-9} closed
+[INFO]2022-11-05 15:35:00,387 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:35:00,388 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:35:01,270 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:35:01,271 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:01,272 - Starting service [Tomcat]
+[INFO]2022-11-05 15:35:01,272 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:35:01,357 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:35:01,360 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:35:01,360 - Root WebApplicationContext: initialization completed in 971 ms
+[INFO]2022-11-05 15:35:01,392 - Init DruidDataSource
+[INFO]2022-11-05 15:35:01,441 - {dataSource-10} inited
+[INFO]2022-11-05 15:35:01,535 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:01,577 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:35:01,606 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:01,623 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:35:01,623 - Started DemoApplication in 1.271 seconds (JVM running for 342.717)
+[INFO]2022-11-05 15:35:01,627 - Condition evaluation unchanged
+[INFO]2022-11-05 15:35:11,006 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:11,007 - {dataSource-10} closed
+[INFO]2022-11-05 15:35:11,330 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:35:11,330 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:35:12,205 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:35:12,206 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:12,206 - Starting service [Tomcat]
+[INFO]2022-11-05 15:35:12,206 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:35:12,255 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:35:12,257 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:35:12,257 - Root WebApplicationContext: initialization completed in 925 ms
+[INFO]2022-11-05 15:35:12,290 - Init DruidDataSource
+[INFO]2022-11-05 15:35:12,323 - {dataSource-11} inited
+[INFO]2022-11-05 15:35:12,380 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:12,431 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:35:12,446 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:12,453 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:35:12,453 - Started DemoApplication in 1.166 seconds (JVM running for 353.547)
+[INFO]2022-11-05 15:35:12,454 - Condition evaluation unchanged
+[INFO]2022-11-05 15:35:22,856 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:22,858 - {dataSource-11} closed
+[INFO]2022-11-05 15:35:23,171 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:35:23,171 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:35:24,110 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:35:24,111 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:24,111 - Starting service [Tomcat]
+[INFO]2022-11-05 15:35:24,111 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:35:24,169 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:35:24,172 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:35:24,172 - Root WebApplicationContext: initialization completed in 999 ms
+[INFO]2022-11-05 15:35:24,241 - Init DruidDataSource
+[INFO]2022-11-05 15:35:24,278 - {dataSource-12} inited
+[INFO]2022-11-05 15:35:24,373 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:35:24,446 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:35:24,462 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:35:24,474 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:35:24,475 - Started DemoApplication in 1.334 seconds (JVM running for 365.568)
+[INFO]2022-11-05 15:35:24,478 - Condition evaluation unchanged
+[INFO]2022-11-05 15:36:11,403 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:36:11,405 - {dataSource-12} closed
+[INFO]2022-11-05 15:36:12,004 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:36:12,005 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:36:13,269 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:36:13,269 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:36:13,270 - Starting service [Tomcat]
+[INFO]2022-11-05 15:36:13,270 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:36:13,335 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:36:13,337 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:36:13,337 - Root WebApplicationContext: initialization completed in 1328 ms
+[INFO]2022-11-05 15:36:13,379 - Init DruidDataSource
+[INFO]2022-11-05 15:36:13,411 - {dataSource-13} inited
+[INFO]2022-11-05 15:36:13,506 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:36:13,546 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:36:13,564 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:36:13,570 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:36:13,570 - Started DemoApplication in 1.606 seconds (JVM running for 414.662)
+[INFO]2022-11-05 15:36:13,572 - Condition evaluation unchanged
+[INFO]2022-11-05 15:37:11,514 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:37:11,515 - {dataSource-13} closed
+[INFO]2022-11-05 15:37:11,831 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:37:11,832 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:37:12,671 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:37:12,671 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:37:12,671 - Starting service [Tomcat]
+[INFO]2022-11-05 15:37:12,672 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:37:12,728 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:37:12,730 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:37:12,731 - Root WebApplicationContext: initialization completed in 897 ms
+[INFO]2022-11-05 15:37:12,759 - Init DruidDataSource
+[INFO]2022-11-05 15:37:12,783 - {dataSource-14} inited
+[INFO]2022-11-05 15:37:12,847 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:37:12,895 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:37:12,906 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:37:12,915 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:37:12,915 - Started DemoApplication in 1.124 seconds (JVM running for 474.005)
+[INFO]2022-11-05 15:37:12,917 - Condition evaluation unchanged
+[INFO]2022-11-05 15:37:40,361 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:37:40,363 - {dataSource-14} closed
+[INFO]2022-11-05 15:37:40,694 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:37:40,695 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:37:41,633 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:37:41,633 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:37:41,634 - Starting service [Tomcat]
+[INFO]2022-11-05 15:37:41,634 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:37:41,668 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:37:41,670 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:37:41,670 - Root WebApplicationContext: initialization completed in 974 ms
+[INFO]2022-11-05 15:37:41,689 - Init DruidDataSource
+[INFO]2022-11-05 15:37:41,723 - {dataSource-15} inited
+[INFO]2022-11-05 15:37:41,779 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:37:41,818 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:37:41,831 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:37:41,837 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:37:41,838 - Started DemoApplication in 1.167 seconds (JVM running for 502.927)
+[INFO]2022-11-05 15:37:41,839 - Condition evaluation unchanged
+[INFO]2022-11-05 15:38:30,396 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:38:30,397 - {dataSource-15} closed
+[INFO]2022-11-05 15:38:30,746 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:38:30,747 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:38:31,614 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:38:31,616 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:38:31,616 - Starting service [Tomcat]
+[INFO]2022-11-05 15:38:31,616 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:38:31,665 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:38:31,669 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:38:31,670 - Root WebApplicationContext: initialization completed in 922 ms
+[INFO]2022-11-05 15:38:31,699 - Init DruidDataSource
+[INFO]2022-11-05 15:38:31,719 - {dataSource-16} inited
+[INFO]2022-11-05 15:38:31,814 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:38:31,880 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:38:31,892 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:38:31,901 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:38:31,901 - Started DemoApplication in 1.185 seconds (JVM running for 552.989)
+[INFO]2022-11-05 15:38:31,902 - Condition evaluation unchanged
+[INFO]2022-11-05 15:38:49,341 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:38:49,344 - {dataSource-16} closed
+[INFO]2022-11-05 15:38:49,773 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:38:49,773 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:38:50,586 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:38:50,586 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:38:50,587 - Starting service [Tomcat]
+[INFO]2022-11-05 15:38:50,587 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:38:50,619 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:38:50,621 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:38:50,621 - Root WebApplicationContext: initialization completed in 846 ms
+[INFO]2022-11-05 15:38:50,641 - Init DruidDataSource
+[INFO]2022-11-05 15:38:50,669 - {dataSource-17} inited
+[INFO]2022-11-05 15:38:50,721 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:38:50,768 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:38:50,780 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:38:50,790 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:38:50,791 - Started DemoApplication in 1.049 seconds (JVM running for 571.878)
+[INFO]2022-11-05 15:38:50,792 - Condition evaluation unchanged
+[INFO]2022-11-05 15:39:08,237 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:08,238 - {dataSource-17} closed
+[INFO]2022-11-05 15:39:08,537 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:39:08,538 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:39:09,361 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:39:09,362 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:09,362 - Starting service [Tomcat]
+[INFO]2022-11-05 15:39:09,362 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:39:09,409 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:39:09,411 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:39:09,411 - Root WebApplicationContext: initialization completed in 872 ms
+[INFO]2022-11-05 15:39:09,435 - Init DruidDataSource
+[INFO]2022-11-05 15:39:09,452 - {dataSource-18} inited
+[INFO]2022-11-05 15:39:09,516 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:09,549 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:39:09,571 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:09,586 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:39:09,587 - Started DemoApplication in 1.068 seconds (JVM running for 590.674)
+[INFO]2022-11-05 15:39:09,588 - Condition evaluation unchanged
+[INFO]2022-11-05 15:39:31,038 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:31,039 - {dataSource-18} closed
+[INFO]2022-11-05 15:39:31,315 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:39:31,316 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:39:32,199 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:39:32,200 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:32,201 - Starting service [Tomcat]
+[INFO]2022-11-05 15:39:32,202 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:39:32,234 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:39:32,236 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:39:32,236 - Root WebApplicationContext: initialization completed in 918 ms
+[INFO]2022-11-05 15:39:32,270 - Init DruidDataSource
+[INFO]2022-11-05 15:39:32,288 - {dataSource-19} inited
+[INFO]2022-11-05 15:39:32,350 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:32,381 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:39:32,391 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:32,405 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:39:32,406 - Started DemoApplication in 1.111 seconds (JVM running for 613.492)
+[INFO]2022-11-05 15:39:32,407 - Condition evaluation unchanged
+[INFO]2022-11-05 15:39:49,839 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:49,840 - {dataSource-19} closed
+[INFO]2022-11-05 15:39:50,144 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:39:50,145 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:39:51,014 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:39:51,015 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:51,015 - Starting service [Tomcat]
+[INFO]2022-11-05 15:39:51,015 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:39:51,056 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:39:51,058 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:39:51,058 - Root WebApplicationContext: initialization completed in 910 ms
+[INFO]2022-11-05 15:39:51,089 - Init DruidDataSource
+[INFO]2022-11-05 15:39:51,107 - {dataSource-20} inited
+[INFO]2022-11-05 15:39:51,186 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:39:51,213 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:39:51,223 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:39:51,231 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:39:51,231 - Started DemoApplication in 1.113 seconds (JVM running for 632.317)
+[INFO]2022-11-05 15:39:51,233 - Condition evaluation unchanged
+[INFO]2022-11-05 15:40:12,678 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:40:12,679 - {dataSource-20} closed
+[INFO]2022-11-05 15:40:13,030 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:40:13,030 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:40:13,941 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:40:13,942 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:40:13,942 - Starting service [Tomcat]
+[INFO]2022-11-05 15:40:13,942 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:40:14,012 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:40:14,014 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:40:14,015 - Root WebApplicationContext: initialization completed in 984 ms
+[INFO]2022-11-05 15:40:14,059 - Init DruidDataSource
+[INFO]2022-11-05 15:40:14,089 - {dataSource-21} inited
+[INFO]2022-11-05 15:40:14,161 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:40:14,218 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:40:14,239 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:40:14,253 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:40:14,254 - Started DemoApplication in 1.246 seconds (JVM running for 655.339)
+[INFO]2022-11-05 15:40:14,258 - Condition evaluation unchanged
+[INFO]2022-11-05 15:40:26,676 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:40:26,677 - {dataSource-21} closed
+[INFO]2022-11-05 15:40:26,952 - Starting DemoApplication on 325PC- with PID 8540 (started by SZU in D:\2022实训\workspaces2\demo-1105-market)
+[INFO]2022-11-05 15:40:26,952 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-05 15:40:27,762 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-05 15:40:27,763 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:40:27,763 - Starting service [Tomcat]
+[INFO]2022-11-05 15:40:27,763 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-05 15:40:27,797 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-05 15:40:27,800 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-05 15:40:27,800 - Root WebApplicationContext: initialization completed in 846 ms
+[INFO]2022-11-05 15:40:27,828 - Init DruidDataSource
+[INFO]2022-11-05 15:40:27,868 - {dataSource-22} inited
+[INFO]2022-11-05 15:40:27,955 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-05 15:40:28,027 - LiveReload server is running on port 35729
+[INFO]2022-11-05 15:40:28,036 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-05 15:40:28,044 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-05 15:40:28,045 - Started DemoApplication in 1.125 seconds (JVM running for 669.13)
+[INFO]2022-11-05 15:40:28,046 - Condition evaluation unchanged
+[INFO]2022-11-05 15:40:51,532 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-05 15:40:51,532 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-05 15:40:51,537 - Completed initialization in 5 ms

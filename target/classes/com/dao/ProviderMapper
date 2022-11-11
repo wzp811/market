@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace的名字需要跟接口的类名一致 -->
+<mapper namespace="com.dao.ProviderMapper">
+
+    <!-- 配置, 结果集映射 -->
+    <resultMap type="com.bean.vo.ProviderVo" id="providerMap">
+        <id property="id" column="id"/>
+        <result property="providerId" column="providerId"/>
+        <result property="providerName" column="providerName"/>
+        <result property="contact" column="contact"/>
+        <result property="phone" column="phone"/>
+        <result property="fax" column="fax"/>
+        <result property="createTime" column="createTime"/>
+        <result property="description" column="description"/>
+    </resultMap>
+
+    <!-- 添加数据, 使用主键自增长 -->
+    <insert id="insert" parameterType="com.bean.entity.Provider">
+        INSERT INTO `t_provider`(providerId, providerName, contact, phone, fax, createTime, description)
+        VALUES (#{providerId}, #{providerName}, #{contact}, #{phone}, #{fax}, #{createTime}, #{description});
+    </insert>
+
+    <delete id="delete" parameterType="com.bean.entity.Provider">
+        delete t_provider where id = #{id}
+    </delete>
+
+    <update id="update" parameterType="com.bean.entity.Provider">
+        update t_provider
+        <set>
+            <if test="providerId != null">providerId = #{providerId},</if>
+            <if test="providerName != null">providerName = #{providerName},</if>
+            <if test="contact != null">contact = #{contact},</if>
+            <if test="phone != null">phone = #{phone},</if>
+            <if test="fax != null">fax = #{fax},</if>
+            <if test="createTime != null">createTime = #{createTime},</if>
+            <if test="description != null">description = #{description},</if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!-- 查询所有数据 -->
+    <select id="select" parameterType="com.bean.entity.Provider" resultMap="providerMap">
+        select * from t_provider
+        <where>
+            <if test="id != null">and id = #{id}</if>
+            <if test="prividerId != null">and prividerId = #{prividerId}</if>
+            <if test="providerName != null">and providerName = #{providerName}</if>
+        </where>
+    </select>
+
+    <select id="selectCount" resultType="int">
+    </select>
+
+    <select id="selectByPage" resultMap="userMap">
+    </select>
+
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

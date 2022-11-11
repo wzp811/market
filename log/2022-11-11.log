@@ -1,0 +1,904 @@
+[INFO]2022-11-11 12:56:22,880 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 16252 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 12:56:22,885 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 12:56:22,996 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 12:56:22,996 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 12:56:25,707 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 12:56:25,721 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 12:56:25,731 - Starting service [Tomcat]
+[INFO]2022-11-11 12:56:25,732 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 12:56:25,742 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 12:56:25,743 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 12:56:25,743 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 12:56:25,762 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 12:56:25,996 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 12:56:26,012 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 12:56:26,012 - Root WebApplicationContext: initialization completed in 3016 ms
+[INFO]2022-11-11 12:56:26,115 - Init DruidDataSource
+[INFO]2022-11-11 12:56:26,281 - {dataSource-1} inited
+[INFO]2022-11-11 12:56:26,793 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 12:56:26,994 - LiveReload server is running on port 35729
+[INFO]2022-11-11 12:56:27,047 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 12:56:27,116 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 12:56:27,116 - Started DemoApplication in 5.002 seconds (JVM running for 6.334)
+[INFO]2022-11-11 12:56:49,577 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 12:56:49,577 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 12:56:49,608 - Completed initialization in 31 ms
+[INFO]2022-11-11 12:59:08,756 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 12:59:08,756 - {dataSource-1} closed
+[INFO]2022-11-11 12:59:12,459 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 10184 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 12:59:12,464 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 12:59:12,506 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 12:59:12,506 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 12:59:14,880 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 12:59:14,880 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 12:59:14,896 - Starting service [Tomcat]
+[INFO]2022-11-11 12:59:14,896 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 12:59:14,911 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 12:59:14,911 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 12:59:14,911 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 12:59:14,911 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 12:59:15,080 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 12:59:15,096 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 12:59:15,096 - Root WebApplicationContext: initialization completed in 2590 ms
+[WARN]2022-11-11 12:59:15,149 - Cannot deserialize session attribute [userList] for session [B547421AD701B4970D2FB3D3A08D2FEA]
+[INFO]2022-11-11 12:59:15,181 - Init DruidDataSource
+[INFO]2022-11-11 12:59:15,316 - {dataSource-1} inited
+[INFO]2022-11-11 12:59:15,666 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 12:59:15,867 - LiveReload server is running on port 35729
+[INFO]2022-11-11 12:59:15,920 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 12:59:15,967 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 12:59:15,967 - Started DemoApplication in 3.933 seconds (JVM running for 4.879)
+[INFO]2022-11-11 12:59:19,385 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 12:59:19,385 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 12:59:19,400 - Completed initialization in 15 ms
+[INFO]2022-11-11 13:30:45,344 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:30:45,346 - {dataSource-1} closed
+[INFO]2022-11-11 13:30:50,506 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 19144 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 13:30:50,510 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 13:30:50,600 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 13:30:50,600 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 13:30:53,286 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 13:30:53,299 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:30:53,308 - Starting service [Tomcat]
+[INFO]2022-11-11 13:30:53,309 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 13:30:53,315 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 13:30:53,315 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 13:30:53,315 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 13:30:53,318 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 13:30:53,489 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 13:30:53,499 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 13:30:53,500 - Root WebApplicationContext: initialization completed in 2899 ms
+[INFO]2022-11-11 13:30:53,593 - Init DruidDataSource
+[INFO]2022-11-11 13:30:53,748 - {dataSource-1} inited
+[INFO]2022-11-11 13:30:54,100 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:30:54,265 - LiveReload server is running on port 35729
+[INFO]2022-11-11 13:30:54,308 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:30:54,356 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 13:30:54,359 - Started DemoApplication in 4.234 seconds (JVM running for 4.932)
+[INFO]2022-11-11 13:31:12,228 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 13:31:12,229 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 13:31:12,239 - Completed initialization in 10 ms
+[INFO]2022-11-11 13:39:08,784 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:39:08,788 - {dataSource-1} closed
+[INFO]2022-11-11 13:39:12,283 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 13972 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 13:39:12,287 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 13:39:12,341 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 13:39:12,341 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 13:39:14,743 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 13:39:14,757 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:39:14,767 - Starting service [Tomcat]
+[INFO]2022-11-11 13:39:14,768 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 13:39:14,774 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 13:39:14,774 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 13:39:14,774 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 13:39:14,778 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 13:39:14,946 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 13:39:14,954 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 13:39:14,955 - Root WebApplicationContext: initialization completed in 2614 ms
+[WARN]2022-11-11 13:39:15,014 - Cannot deserialize session attribute [userList] for session [01479866E015742D5C8D05E82DFA91D1]
+[WARN]2022-11-11 13:39:15,017 - Cannot deserialize session attribute [orderList] for session [01479866E015742D5C8D05E82DFA91D1]
+[INFO]2022-11-11 13:39:15,054 - Init DruidDataSource
+[INFO]2022-11-11 13:39:15,180 - {dataSource-1} inited
+[INFO]2022-11-11 13:39:15,483 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:39:15,667 - LiveReload server is running on port 35729
+[INFO]2022-11-11 13:39:15,706 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:39:15,749 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 13:39:15,752 - Started DemoApplication in 3.97 seconds (JVM running for 4.81)
+[INFO]2022-11-11 13:39:37,939 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 13:39:37,939 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 13:39:37,947 - Completed initialization in 8 ms
+[INFO]2022-11-11 13:59:22,475 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:59:22,482 - {dataSource-1} closed
+[INFO]2022-11-11 13:59:26,868 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 10388 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 13:59:26,872 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 13:59:26,943 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 13:59:26,943 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 13:59:29,814 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 13:59:29,842 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:59:29,854 - Starting service [Tomcat]
+[INFO]2022-11-11 13:59:29,856 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 13:59:29,864 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 13:59:29,864 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 13:59:29,864 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 13:59:29,870 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 13:59:30,072 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 13:59:30,081 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 13:59:30,081 - Root WebApplicationContext: initialization completed in 3138 ms
+[WARN]2022-11-11 13:59:30,179 - Cannot deserialize session attribute [userList] for session [01479866E015742D5C8D05E82DFA91D1]
+[ERROR]2022-11-11 13:59:30,190 - Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.io.ObjectStreamClass (java.lang.String and java.io.ObjectStreamClass are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1911)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2235)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2617)
+	at java.base/java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:652)
+	at java.base/java.lang.Throwable.readObject(Throwable.java:912)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:899)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1576)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5167)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:427)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+[INFO]2022-11-11 13:59:30,247 - Init DruidDataSource
+[INFO]2022-11-11 13:59:30,417 - {dataSource-1} inited
+[INFO]2022-11-11 13:59:30,791 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 13:59:30,963 - LiveReload server is running on port 35729
+[INFO]2022-11-11 13:59:31,003 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 13:59:31,053 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 13:59:31,056 - Started DemoApplication in 4.567 seconds (JVM running for 5.184)
+[INFO]2022-11-11 14:00:17,913 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:00:17,915 - {dataSource-1} closed
+[INFO]2022-11-11 14:00:22,381 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 8000 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:00:22,383 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:00:22,434 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:00:22,434 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:00:24,860 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:00:24,874 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:00:24,883 - Starting service [Tomcat]
+[INFO]2022-11-11 14:00:24,883 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:00:24,888 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:00:24,888 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:00:24,889 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:00:24,891 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:00:25,053 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:00:25,061 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:00:25,061 - Root WebApplicationContext: initialization completed in 2627 ms
+[INFO]2022-11-11 14:00:25,136 - Init DruidDataSource
+[INFO]2022-11-11 14:00:25,266 - {dataSource-1} inited
+[INFO]2022-11-11 14:00:25,548 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:00:25,710 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:00:25,756 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:00:25,802 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:00:25,805 - Started DemoApplication in 3.822 seconds (JVM running for 4.491)
+[INFO]2022-11-11 14:00:32,547 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:00:32,547 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:00:32,559 - Completed initialization in 12 ms
+[WARN]2022-11-11 14:00:55,322 - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'birthday': rejected value [1980-01-01]; codes [typeMismatch.user.birthday,typeMismatch.birthday,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.birthday,birthday]; arguments []; default message [birthday]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'birthday'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '1980-01-01'; nested exception is java.lang.IllegalArgumentException]]
+[WARN]2022-11-11 14:02:05,899 - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'birthday': rejected value [1980-01-01]; codes [typeMismatch.user.birthday,typeMismatch.birthday,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.birthday,birthday]; arguments []; default message [birthday]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'birthday'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '1980-01-01'; nested exception is java.lang.IllegalArgumentException]]
+[WARN]2022-11-11 14:02:29,123 - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'birthday': rejected value [1980-01-10]; codes [typeMismatch.user.birthday,typeMismatch.birthday,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.birthday,birthday]; arguments []; default message [birthday]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'birthday'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '1980-01-10'; nested exception is java.lang.IllegalArgumentException]]
+[WARN]2022-11-11 14:06:26,291 - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'birthday': rejected value [1980-01-01]; codes [typeMismatch.user.birthday,typeMismatch.birthday,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.birthday,birthday]; arguments []; default message [birthday]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'birthday'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '1980-01-01'; nested exception is java.lang.IllegalArgumentException]]
+[INFO]2022-11-11 14:08:24,493 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:08:24,497 - {dataSource-1} closed
+[INFO]2022-11-11 14:08:28,388 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 15780 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:08:28,393 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:08:28,477 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:08:28,477 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:08:30,970 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:08:30,987 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:08:30,998 - Starting service [Tomcat]
+[INFO]2022-11-11 14:08:30,998 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:08:31,004 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:08:31,004 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:08:31,004 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:08:31,007 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:08:31,189 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:08:31,199 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:08:31,199 - Root WebApplicationContext: initialization completed in 2721 ms
+[WARN]2022-11-11 14:08:31,263 - Cannot deserialize session attribute [userList] for session [412BC72A44F0B2972AC83957D338AC4F]
+[ERROR]2022-11-11 14:08:31,267 - Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.io.ObjectStreamClass (java.lang.String and java.io.ObjectStreamClass are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1911)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2235)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:899)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1576)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5167)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:427)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+[INFO]2022-11-11 14:08:31,299 - Init DruidDataSource
+[INFO]2022-11-11 14:08:31,440 - {dataSource-1} inited
+[INFO]2022-11-11 14:08:31,736 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:08:31,902 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:08:31,948 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:08:31,997 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:08:32,000 - Started DemoApplication in 4.081 seconds (JVM running for 5.054)
+[INFO]2022-11-11 14:08:32,296 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:08:32,296 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:08:32,307 - Completed initialization in 11 ms
+[WARN]2022-11-11 14:08:32,853 - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [105] milliseconds.
+[WARN]2022-11-11 14:08:47,156 - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'birthday': rejected value [1980-01-01]; codes [typeMismatch.user.birthday,typeMismatch.birthday,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.birthday,birthday]; arguments []; default message [birthday]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'birthday'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '1980-01-01'; nested exception is java.lang.IllegalArgumentException]]
+[INFO]2022-11-11 14:10:40,355 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:10:40,358 - {dataSource-1} closed
+[INFO]2022-11-11 14:10:44,862 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 2992 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:10:44,865 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:10:44,939 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:10:44,940 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:10:47,513 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:10:47,527 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:10:47,535 - Starting service [Tomcat]
+[INFO]2022-11-11 14:10:47,536 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:10:47,543 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:10:47,543 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:10:47,544 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:10:47,546 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:10:47,720 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:10:47,731 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:10:47,731 - Root WebApplicationContext: initialization completed in 2791 ms
+[WARN]2022-11-11 14:10:47,787 - Cannot deserialize session attribute [userList] for session [5F767C7EB2CEA01024994C8AAE6B7521]
+[ERROR]2022-11-11 14:10:47,794 - Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.io.ObjectStreamClass (java.lang.String and java.io.ObjectStreamClass are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1911)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2235)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:899)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1576)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5167)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:427)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+[INFO]2022-11-11 14:10:47,841 - Init DruidDataSource
+[INFO]2022-11-11 14:10:47,978 - {dataSource-1} inited
+[INFO]2022-11-11 14:10:48,299 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:10:48,487 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:10:48,532 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:10:48,579 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:10:48,582 - Started DemoApplication in 4.12 seconds (JVM running for 4.859)
+[INFO]2022-11-11 14:10:54,804 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:10:54,804 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:10:54,812 - Completed initialization in 8 ms
+[INFO]2022-11-11 14:33:21,210 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:33:21,214 - {dataSource-1} closed
+[INFO]2022-11-11 14:33:27,199 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 4688 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:33:27,202 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:33:27,264 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:33:27,264 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:33:30,013 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:33:30,031 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:33:30,040 - Starting service [Tomcat]
+[INFO]2022-11-11 14:33:30,040 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:33:30,048 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:33:30,049 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:33:30,049 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:33:30,052 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:33:30,236 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:33:30,245 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:33:30,245 - Root WebApplicationContext: initialization completed in 2981 ms
+[WARN]2022-11-11 14:33:30,308 - Cannot deserialize session attribute [userList] for session [D0CDA87AD36BA6B308A4C0E56CE3EF11]
+[WARN]2022-11-11 14:33:30,313 - Cannot deserialize session attribute [orderList] for session [D0CDA87AD36BA6B308A4C0E56CE3EF11]
+[ERROR]2022-11-11 14:33:30,317 - Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.io.ObjectStreamClass (java.lang.String and java.io.ObjectStreamClass are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1911)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2235)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2617)
+	at java.base/java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:652)
+	at java.base/java.lang.Throwable.readObject(Throwable.java:912)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:899)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1576)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5167)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:427)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+[INFO]2022-11-11 14:33:30,366 - Init DruidDataSource
+[INFO]2022-11-11 14:33:30,522 - {dataSource-1} inited
+[INFO]2022-11-11 14:33:30,850 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:33:31,018 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:33:31,062 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:33:31,111 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:33:31,115 - Started DemoApplication in 4.419 seconds (JVM running for 5.336)
+[INFO]2022-11-11 14:33:36,771 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:33:36,772 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:33:36,781 - Completed initialization in 9 ms
+[INFO]2022-11-11 14:35:29,545 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:35:29,548 - {dataSource-1} closed
+[INFO]2022-11-11 14:35:32,801 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 7228 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:35:32,805 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:35:32,903 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:35:32,903 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:35:35,806 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:35:35,826 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:35:35,838 - Starting service [Tomcat]
+[INFO]2022-11-11 14:35:35,838 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:35:35,847 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:35:35,847 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:35:35,847 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:35:35,851 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:35:36,047 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:35:36,062 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:35:36,063 - Root WebApplicationContext: initialization completed in 3158 ms
+[WARN]2022-11-11 14:35:36,151 - Cannot deserialize session attribute [userList] for session [4A8CF9B8D0A2CB0846A850505842D0B2]
+[WARN]2022-11-11 14:35:36,154 - Cannot deserialize session attribute [orderList] for session [4A8CF9B8D0A2CB0846A850505842D0B2]
+[ERROR]2022-11-11 14:35:36,159 - Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.io.ObjectStreamClass (java.lang.String and java.io.ObjectStreamClass are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1911)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2235)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2617)
+	at java.base/java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:652)
+	at java.base/java.lang.Throwable.readObject(Throwable.java:912)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:899)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1231)
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2434)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2268)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1744)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:514)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:472)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1576)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5167)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:427)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:180)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+[INFO]2022-11-11 14:35:36,207 - Init DruidDataSource
+[INFO]2022-11-11 14:35:36,344 - {dataSource-1} inited
+[INFO]2022-11-11 14:35:36,651 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:35:36,834 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:35:36,882 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:35:36,938 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:35:36,942 - Started DemoApplication in 4.543 seconds (JVM running for 5.264)
+[INFO]2022-11-11 14:35:40,943 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:35:40,944 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:35:40,952 - Completed initialization in 8 ms
+[INFO]2022-11-11 14:47:40,964 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:47:40,969 - {dataSource-1} closed
+[INFO]2022-11-11 14:47:45,213 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 9428 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:47:45,223 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:47:45,302 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:47:45,303 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:47:47,852 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:47:47,867 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:47:47,876 - Starting service [Tomcat]
+[INFO]2022-11-11 14:47:47,877 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:47:47,883 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:47:47,883 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:47:47,883 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:47:47,886 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:47:48,058 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:47:48,068 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:47:48,068 - Root WebApplicationContext: initialization completed in 2765 ms
+[WARN]2022-11-11 14:47:48,125 - Cannot deserialize session attribute [orderList] for session [47363E5EAAD6E327D0D4CAC50D4F9E27]
+[INFO]2022-11-11 14:47:48,171 - Init DruidDataSource
+[INFO]2022-11-11 14:47:48,309 - {dataSource-1} inited
+[INFO]2022-11-11 14:47:48,622 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:47:48,806 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:47:48,848 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:47:48,897 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:47:48,900 - Started DemoApplication in 4.146 seconds (JVM running for 4.954)
+[INFO]2022-11-11 14:47:54,295 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:47:54,296 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:47:54,306 - Completed initialization in 10 ms
+[ERROR]2022-11-11 14:48:02,898 - Servlet.service() for servlet [jsp] threw exception
+javax.el.PropertyNotFoundException: Property [userName] not found on type [com.bean.vo.OrderVo]
+	at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:260)
+	at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:212)
+	at javax.el.BeanELResolver.property(BeanELResolver.java:347)
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:92)
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:113)
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:169)
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:190)
+	at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:701)
+	at org.apache.jsp.page.user.detail_jsp._jspService(detail_jsp.java:178)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:476)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:170)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1370)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1116)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[ERROR]2022-11-11 14:48:02,899 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [An exception occurred processing [/page/user/detail.jsp] at line [48]
+
+45:             <span>用户管理页面 >> 用户信息查看页面</span>
+46:         </div>
+47:         <div class="providerView">
+48:             <p><strong>账号：</strong><span>${userInfo.userName }</span></p>
+49: 
+50:             <p><strong>姓名：</strong><span>${userInfo.realName }</span></p>
+51: 
+
+
+Stacktrace:] with root cause
+javax.el.PropertyNotFoundException: Property [userName] not found on type [com.bean.vo.OrderVo]
+	at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:260)
+	at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:212)
+	at javax.el.BeanELResolver.property(BeanELResolver.java:347)
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:92)
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:113)
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:169)
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:190)
+	at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:701)
+	at org.apache.jsp.page.user.detail_jsp._jspService(detail_jsp.java:178)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:476)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:170)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1370)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1116)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO]2022-11-11 14:49:10,520 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:49:10,523 - {dataSource-1} closed
+[INFO]2022-11-11 14:49:15,159 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 17068 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:49:15,165 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:49:15,250 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:49:15,250 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:49:21,642 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 15576 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:49:21,645 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:49:21,704 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:49:21,704 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:49:24,276 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:49:24,289 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:49:24,297 - Starting service [Tomcat]
+[INFO]2022-11-11 14:49:24,297 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:49:24,303 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:49:24,303 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:49:24,303 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:49:24,306 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:49:24,471 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:49:24,479 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:49:24,480 - Root WebApplicationContext: initialization completed in 2776 ms
+[WARN]2022-11-11 14:49:24,535 - Cannot deserialize session attribute [orderList] for session [47363E5EAAD6E327D0D4CAC50D4F9E27]
+[INFO]2022-11-11 14:49:24,585 - Init DruidDataSource
+[INFO]2022-11-11 14:49:24,725 - {dataSource-1} inited
+[INFO]2022-11-11 14:49:25,103 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:49:25,281 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:49:25,327 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:49:25,384 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:49:25,388 - Started DemoApplication in 4.201 seconds (JVM running for 5.045)
+[INFO]2022-11-11 14:49:25,539 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:49:25,539 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:49:25,552 - Completed initialization in 13 ms
+[INFO]2022-11-11 14:49:40,999 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:49:41,002 - {dataSource-1} closed
+[INFO]2022-11-11 14:49:45,342 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 18932 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-11 14:49:45,346 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-11 14:49:45,406 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-11 14:49:45,407 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-11 14:49:48,069 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-11 14:49:48,081 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:49:48,089 - Starting service [Tomcat]
+[INFO]2022-11-11 14:49:48,090 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-11 14:49:48,096 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-11 14:49:48,096 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-11 14:49:48,096 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-11 14:49:48,099 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-11 14:49:48,259 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-11 14:49:48,271 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-11 14:49:48,271 - Root WebApplicationContext: initialization completed in 2864 ms
+[WARN]2022-11-11 14:49:48,331 - Cannot deserialize session attribute [orderList] for session [47363E5EAAD6E327D0D4CAC50D4F9E27]
+[INFO]2022-11-11 14:49:48,371 - Init DruidDataSource
+[INFO]2022-11-11 14:49:48,502 - {dataSource-1} inited
+[INFO]2022-11-11 14:49:48,792 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:49:48,952 - LiveReload server is running on port 35729
+[INFO]2022-11-11 14:49:48,998 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-11 14:49:49,073 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-11 14:49:49,076 - Started DemoApplication in 4.16 seconds (JVM running for 4.885)
+[INFO]2022-11-11 14:49:49,542 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-11 14:49:49,543 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-11 14:49:49,553 - Completed initialization in 10 ms
+[INFO]2022-11-11 14:50:47,991 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-11 14:50:47,996 - {dataSource-1} closed

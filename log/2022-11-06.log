@@ -1,0 +1,381 @@
+[INFO]2022-11-06 10:26:37,743 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 16476 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 10:26:37,746 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 10:26:37,802 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 10:26:37,803 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 10:27:19,363 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 12776 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 10:27:19,367 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 10:27:19,415 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 10:27:19,415 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 10:27:21,512 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 10:27:21,524 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 10:27:21,531 - Starting service [Tomcat]
+[INFO]2022-11-06 10:27:21,531 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 10:27:21,537 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 10:27:21,537 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 10:27:21,537 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 10:27:21,540 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 10:27:21,696 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 10:27:21,704 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 10:27:21,704 - Root WebApplicationContext: initialization completed in 2289 ms
+[INFO]2022-11-06 10:27:21,776 - Init DruidDataSource
+[INFO]2022-11-06 10:27:21,892 - {dataSource-1} inited
+[INFO]2022-11-06 10:27:22,158 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 10:27:22,310 - LiveReload server is running on port 35729
+[INFO]2022-11-06 10:27:22,346 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 10:27:22,403 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 10:27:22,406 - Started DemoApplication in 3.388 seconds (JVM running for 4.111)
+[INFO]2022-11-06 10:27:31,573 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 10:27:31,573 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 10:27:31,580 - Completed initialization in 7 ms
+[INFO]2022-11-06 14:50:33,597 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 14:50:33,613 - {dataSource-1} closed
+[INFO]2022-11-06 14:50:39,118 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 10832 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 14:50:39,118 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 14:50:39,175 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 14:50:39,175 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 14:50:41,253 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 14:50:41,269 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 14:50:41,269 - Starting service [Tomcat]
+[INFO]2022-11-06 14:50:41,269 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 14:50:41,284 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 14:50:41,284 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 14:50:41,284 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 14:50:41,284 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 14:50:41,440 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 14:50:41,440 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 14:50:41,440 - Root WebApplicationContext: initialization completed in 2265 ms
+[WARN]2022-11-06 14:50:41,495 - Cannot deserialize session attribute [userList] for session [5E5E1454DAB120013086EB9BB66E10F8]
+[INFO]2022-11-06 14:50:41,535 - Init DruidDataSource
+[INFO]2022-11-06 14:50:41,644 - {dataSource-1} inited
+[INFO]2022-11-06 14:50:41,909 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 14:50:42,066 - LiveReload server is running on port 35729
+[ERROR]2022-11-06 14:50:42,066 - Error while adding the mapper 'interface com.dao.OrderMapper' to configuration.
+org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/dao/OrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:123)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:95)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:179)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:72)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:841)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:80)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1837)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1774)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:830)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:115)
+	... 30 common frames omitted
+[WARN]2022-11-06 14:50:42,081 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'orderMapper' defined in file [C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes\com\dao\OrderMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/dao/OrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+[INFO]2022-11-06 14:50:42,081 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 14:50:42,081 - {dataSource-1} closed
+[INFO]2022-11-06 14:50:42,081 - Stopping service [Tomcat]
+[INFO]2022-11-06 14:50:42,097 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR]2022-11-06 14:50:42,097 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'orderMapper' defined in file [C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes\com\dao\OrderMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/dao/OrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1778)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:830)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.DemoApplication.main(DemoApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/dao/OrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:83)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1837)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1774)
+	... 21 common frames omitted
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'com/dao/OrderMapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:123)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:95)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:179)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:72)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:841)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:80)
+	... 24 common frames omitted
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.dao.OrderMapper' but found 'com.dao.UserMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:115)
+	... 30 common frames omitted
+[INFO]2022-11-06 16:01:53,628 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 3964 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:01:53,628 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:01:53,681 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:01:53,681 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:01:55,691 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:01:55,707 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:01:55,722 - Starting service [Tomcat]
+[INFO]2022-11-06 16:01:55,722 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:01:55,722 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:01:55,722 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:01:55,722 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:01:55,722 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:01:55,862 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:01:55,878 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:01:55,878 - Root WebApplicationContext: initialization completed in 2197 ms
+[INFO]2022-11-06 16:01:55,956 - Init DruidDataSource
+[INFO]2022-11-06 16:01:56,066 - {dataSource-1} inited
+[INFO]2022-11-06 16:01:56,425 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:01:56,579 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:01:56,613 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:01:56,675 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:01:56,679 - Started DemoApplication in 3.41 seconds (JVM running for 4.029)
+[INFO]2022-11-06 16:11:53,329 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:11:53,329 - {dataSource-1} closed
+[INFO]2022-11-06 16:16:46,362 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 6104 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:16:46,362 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:16:46,415 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:16:46,415 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:16:48,660 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:16:48,683 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:16:48,683 - Starting service [Tomcat]
+[INFO]2022-11-06 16:16:48,683 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:16:48,683 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:16:48,683 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:16:48,683 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:16:48,683 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:16:48,831 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:16:48,847 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:16:48,847 - Root WebApplicationContext: initialization completed in 2417 ms
+[INFO]2022-11-06 16:16:48,909 - Init DruidDataSource
+[INFO]2022-11-06 16:16:49,019 - {dataSource-1} inited
+[INFO]2022-11-06 16:16:49,300 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:16:49,456 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:16:49,484 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:16:49,535 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:16:49,551 - Started DemoApplication in 3.61 seconds (JVM running for 4.376)
+[INFO]2022-11-06 16:17:06,581 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 16:17:06,581 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 16:17:06,597 - Completed initialization in 16 ms
+[ERROR]2022-11-06 16:17:06,681 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Result Maps collection does not contain value for com.dao.OrderMapper.userMap] with root cause
+java.lang.IllegalArgumentException: Result Maps collection does not contain value for com.dao.OrderMapper.userMap
+	at org.apache.ibatis.session.Configuration$StrictMap.get(Configuration.java:1031)
+	at org.apache.ibatis.session.Configuration.getResultMap(Configuration.java:740)
+	at org.apache.ibatis.builder.MapperBuilderAssistant.getStatementResultMaps(MapperBuilderAssistant.java:394)
+	at org.apache.ibatis.builder.MapperBuilderAssistant.addMappedStatement(MapperBuilderAssistant.java:285)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:113)
+	at org.apache.ibatis.session.Configuration.lambda$buildAllStatements$2(Configuration.java:882)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.apache.ibatis.session.Configuration.buildAllStatements(Configuration.java:881)
+	at org.apache.ibatis.session.Configuration.hasStatement(Configuration.java:858)
+	at org.apache.ibatis.session.Configuration.hasStatement(Configuration.java:853)
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.resolveMappedStatement(MapperMethod.java:257)
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:227)
+	at org.apache.ibatis.binding.MapperMethod.<init>(MapperMethod.java:53)
+	at org.apache.ibatis.binding.MapperProxy.lambda$cachedInvoker$0(MapperProxy.java:108)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.apache.ibatis.util.MapUtil.computeIfAbsent(MapUtil.java:36)
+	at org.apache.ibatis.binding.MapperProxy.cachedInvoker(MapperProxy.java:95)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy58.select(Unknown Source)
+	at com.service.impl.OrderServiceImpl.query(OrderServiceImpl.java:21)
+	at com.controller.OrderController.query(OrderController.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO]2022-11-06 16:21:17,441 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:21:17,441 - {dataSource-1} closed
+[INFO]2022-11-06 16:21:19,906 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 3372 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:21:19,909 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:21:19,953 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:21:19,953 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:21:21,921 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:21:21,921 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:21:21,941 - Starting service [Tomcat]
+[INFO]2022-11-06 16:21:21,941 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:21:21,941 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:21:21,941 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:21:21,941 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:21:21,941 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:21:22,097 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:21:22,097 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:21:22,097 - Root WebApplicationContext: initialization completed in 2144 ms
+[INFO]2022-11-06 16:21:22,175 - Init DruidDataSource
+[INFO]2022-11-06 16:21:22,284 - {dataSource-1} inited
+[INFO]2022-11-06 16:21:22,551 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:21:22,706 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:21:22,753 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:21:22,800 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:21:22,800 - Started DemoApplication in 3.218 seconds (JVM running for 3.811)
+[INFO]2022-11-06 16:21:28,175 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 16:21:28,175 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 16:21:28,175 - Completed initialization in 0 ms
+[INFO]2022-11-06 16:23:28,057 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:23:28,066 - {dataSource-1} closed
+[INFO]2022-11-06 16:23:32,050 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 11544 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:23:32,050 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:23:32,112 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:23:32,112 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:23:34,378 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:23:34,394 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:23:34,404 - Starting service [Tomcat]
+[INFO]2022-11-06 16:23:34,409 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:23:34,409 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:23:34,409 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:23:34,409 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:23:34,409 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:23:34,551 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:23:34,565 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:23:34,565 - Root WebApplicationContext: initialization completed in 2453 ms
+[WARN]2022-11-06 16:23:34,620 - Cannot deserialize session attribute [userList] for session [D420ED5F82C0DB23C1F315BEADA57A21]
+[INFO]2022-11-06 16:23:34,660 - Init DruidDataSource
+[INFO]2022-11-06 16:23:34,769 - {dataSource-1} inited
+[INFO]2022-11-06 16:23:35,105 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:23:35,253 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:23:35,300 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:23:35,347 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:23:35,347 - Started DemoApplication in 3.64 seconds (JVM running for 4.236)
+[INFO]2022-11-06 16:23:44,394 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 16:23:44,394 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 16:23:44,394 - Completed initialization in 0 ms
+[INFO]2022-11-06 16:26:04,972 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:26:04,987 - {dataSource-1} closed
+[INFO]2022-11-06 16:26:07,785 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 17832 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:26:07,785 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:26:07,857 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:26:07,857 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:26:10,019 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:26:10,034 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:26:10,034 - Starting service [Tomcat]
+[INFO]2022-11-06 16:26:10,034 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:26:10,050 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:26:10,050 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:26:10,050 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:26:10,050 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:26:10,206 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:26:10,206 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:26:10,206 - Root WebApplicationContext: initialization completed in 2349 ms
+[WARN]2022-11-06 16:26:10,253 - Cannot deserialize session attribute [orderList] for session [D420ED5F82C0DB23C1F315BEADA57A21]
+[INFO]2022-11-06 16:26:10,285 - Init DruidDataSource
+[INFO]2022-11-06 16:26:10,409 - {dataSource-1} inited
+[INFO]2022-11-06 16:26:10,706 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:26:10,887 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:26:10,925 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:26:10,988 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:26:10,988 - Started DemoApplication in 3.548 seconds (JVM running for 4.142)
+[INFO]2022-11-06 16:26:17,894 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 16:26:17,894 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 16:26:17,910 - Completed initialization in 16 ms
+[INFO]2022-11-06 16:32:22,800 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:32:22,800 - {dataSource-1} closed
+[INFO]2022-11-06 16:32:26,499 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 9020 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-06 16:32:26,503 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-06 16:32:26,548 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-06 16:32:26,548 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-06 16:32:28,549 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-06 16:32:28,566 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:32:28,566 - Starting service [Tomcat]
+[INFO]2022-11-06 16:32:28,566 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-06 16:32:28,582 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-06 16:32:28,582 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-06 16:32:28,582 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-06 16:32:28,582 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-06 16:32:28,738 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-06 16:32:28,738 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-06 16:32:28,738 - Root WebApplicationContext: initialization completed in 2190 ms
+[WARN]2022-11-06 16:32:28,800 - Cannot deserialize session attribute [userList] for session [D420ED5F82C0DB23C1F315BEADA57A21]
+[WARN]2022-11-06 16:32:28,800 - Cannot deserialize session attribute [orderList] for session [D420ED5F82C0DB23C1F315BEADA57A21]
+[INFO]2022-11-06 16:32:28,831 - Init DruidDataSource
+[INFO]2022-11-06 16:32:28,949 - {dataSource-1} inited
+[INFO]2022-11-06 16:32:29,206 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 16:32:29,355 - LiveReload server is running on port 35729
+[INFO]2022-11-06 16:32:29,394 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-06 16:32:29,440 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-06 16:32:29,455 - Started DemoApplication in 3.28 seconds (JVM running for 3.872)
+[INFO]2022-11-06 16:32:32,128 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-06 16:32:32,128 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-06 16:32:32,144 - Completed initialization in 16 ms
+[INFO]2022-11-06 17:42:24,695 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-06 17:42:24,695 - {dataSource-1} closed

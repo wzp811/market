@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace的名字需要跟接口的类名一致 -->
+<mapper namespace="com.dao.RoleMapper">
+    <!-- 查询所有数据 -->
+    <select id="select" parameterType="com.bean.entity.Role" resultType="com.bean.entity.Role">
+        select * from t_role
+    </select>
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
