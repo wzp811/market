@@ -41,60 +41,48 @@
     <div class="right">
         <div class="location">
             <strong>你现在所在的位置是:</strong>
-            <span>订单管理页面 >> 订单修改页面</span>
+            <span>供应商管理页面 >> 供应商修改页面</span>
         </div>
         <div class="providerAdd">
-            <form id="form1" name="billForm" method="post" action="/order/modify?id=${orderInfo.id }">
+            <form id="form1" name="providerForm" method="post" action="/provider/modify?id=${providerInfo.id }">
                 <div>
-                    <label for="code">订单编码：</label>
-                    <input type="text" name="code" id="code" value="${orderInfo.code }">
+                    <label for="code">供应商编码：</label>
+                    <input type="text" name="code" id="code" value="${providerInfo.code }">
                     <font color="red"></font>
                 </div>
 
                 <div>
-                    <label for="productName">商品名称：</label>
-                    <input type="text" name="productName" id="productName" value="${orderInfo.productName }">
+                    <label for="name">供应商名称：</label>
+                    <input type="text" name="name" id="name" value="${providerInfo.name }">
                     <font color="red"></font>
-                </div>
-                <div>
-                    <label >供应商名称：</label>
-                    <!-- 列出所有的供应商 -->
-                    <select name="providerId" id="providerId">
-                        <c:forEach items="${providerList }" var="r">
-                            <option value="${r.id }" <c:if test="${orderInfo.providerId == r.id}">selected</c:if>>${r.name }</option>
-                        </c:forEach>
-                    </select>
                 </div>
 
                 <div>
-                    <label for="number">商品数量：</label>
-                    <input type="number" name="number" id="number" value="${orderInfo.number }">
+                    <label for="contact">联系人：</label>
+                    <input type="text" name="contact" id="contact" value="${providerInfo.contact }">
                     <font color="red"></font>
                 </div>
                 <div>
-                    <label for="unit">商品单位：</label>
-                    <input type="text" name="unit" id="unit" value="${orderInfo.unit }">
+                    <label for="phone">联系电话：</label>
+                    <input type="text" name="phone" id="phone" value="${providerInfo.phone }">
                     <font color="red"></font>
                 </div>
                 <div>
-                    <label for="amount">总金额：</label>
-                    <input type="number" name="amount" id="amount" value="${orderInfo.amount }">
+                    <label for="fax">传真：</label>
+                    <input type="text" name="fax" id="fax" value="${providerInfo.fax }">
+                    <font color="red"></font>
+                </div>
+                <div>
+                    <label for="description">描述：</label>
+                    <input type="test" name="description" id="description" value="${providerInfo.description }">
                     <font color="red"></font>
                 </div>
                 <div>
                     <label for="createTime">创建时间：</label>
                     <input type="text" Class="Wdate" id="createTime" name="createTime"
-                           value="<fmt:formatDate value="${orderInfo.createTime }" pattern="yyyy-MM-dd"></fmt:formatDate>"
+                           value="<fmt:formatDate value="${providerInfo.createTime }" pattern="yyyy-MM-dd"></fmt:formatDate>"
                            readonly="readonly" onclick="WdatePicker();">
                     <font color="red"></font>
-                </div>
-                <div>
-                    <label for="paid">是否付款：</label>
-
-
-                    <input type="radio" name="isPayment" id="paid" value="1" <c:if test="${orderInfo.status == 1}">checked="checked"</c:if>>已付款
-                    <input type="radio" name="isPayment" id="paid" value="2" <c:if test="${orderInfo.status == 2}">checked="checked"</c:if>>未付款
-
                 </div>
                 <div class="providerAddBtn">
                     <input type="button" name="save" id="save" value="保存" onclick="saveForModify()" />
@@ -127,7 +115,7 @@
 
 	/* 函数: 返回用户列表 */
 	function backToUserList(){
-		location = "/order/query";
+		location = "/provider/query";
 	}
 </script>
 <c:remove var="msg" scope="session"/>

@@ -1,12 +1,15 @@
 package com.controller;
 
 import com.bean.entity.Order;
+import com.bean.entity.Provider;
 import com.bean.entity.Role;
 import com.bean.entity.User;
 import com.bean.vo.OrderVo;
+import com.bean.vo.ProviderVo;
 import com.bean.vo.UserVo;
 import com.exception.MyException;
 import com.service.OrderService;
+import com.service.ProviderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,6 +23,9 @@ public class OrderController {
 
     @Autowired
     private OrderService orderService;
+
+    @Autowired
+    private ProviderService providerService;
 
     @RequestMapping("query")
     public String query(HttpSession session) {
@@ -58,8 +64,10 @@ public class OrderController {
 
         try {
             OrderVo orderInfo = orderService.unique(order);
+            List<ProviderVo> providerList = providerService.query();
 
             session.setAttribute("orderInfo", orderInfo);
+            session.setAttribute("providerList", providerList);
 
             return "/page/order/" + page + ".jsp";
         } catch (MyException e) {

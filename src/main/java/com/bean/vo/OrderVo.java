@@ -1,5 +1,7 @@
 package com.bean.vo;
 
+import com.bean.entity.Provider;
+
 import java.util.Date;
 
 public class OrderVo {
@@ -7,7 +9,7 @@ public class OrderVo {
     private Long id;
     private String code;
     private String productName;
-    private String providerName;
+    private String providerId;
     private Double number;
     private Double amount;
     private Integer status;
@@ -15,6 +17,7 @@ public class OrderVo {
     private String unit;
 
     private String paid;
+    private Provider provider;
 
     @Override
     public String toString() {
@@ -22,13 +25,14 @@ public class OrderVo {
                 "id=" + id +
                 ", code='" + code + '\'' +
                 ", productName='" + productName + '\'' +
-                ", providerName='" + providerName + '\'' +
+                ", providerId='" + providerId + '\'' +
                 ", number=" + number +
                 ", amount=" + amount +
                 ", status=" + status +
                 ", createTime=" + createTime +
                 ", unit='" + unit + '\'' +
                 ", paid='" + paid + '\'' +
+                ", provider=" + provider +
                 '}';
     }
 
@@ -56,13 +60,6 @@ public class OrderVo {
         this.productName = productName;
     }
 
-    public String getProviderName() {
-        return providerName;
-    }
-
-    public void setProviderName(String providerName) {
-        this.providerName = providerName;
-    }
 
     public Double getNumber() {
         return number;
@@ -118,5 +115,25 @@ public class OrderVo {
 
     public void setUnit(String unit) {
         this.unit = unit;
+    }
+
+    public Provider getProvider() {
+        return provider;
+    }
+
+    public void setProvider(Provider provider) {
+        this.provider = provider;
+    }
+
+    public String getProviderId() {
+        return providerId;
+    }
+
+    public void setProviderId(String providerId) {
+        this.providerId = providerId;
+    }
+
+    public void setPaid(String paid) {
+        this.paid = paid;
     }
 }

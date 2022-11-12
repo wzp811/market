@@ -11,7 +11,7 @@ public class Order implements Serializable {
     private Long id;
     private String code;
     private String productName;
-    private String providerName;
+    private Long providerId;
     private Double number;
     private Double amount;
     private Integer status;
@@ -25,7 +25,7 @@ public class Order implements Serializable {
                 "id=" + id +
                 ", code='" + code + '\'' +
                 ", productName='" + productName + '\'' +
-                ", providerName='" + providerName + '\'' +
+                ", providerId=" + providerId +
                 ", number=" + number +
                 ", amount=" + amount +
                 ", status=" + status +
@@ -58,12 +58,12 @@ public class Order implements Serializable {
         this.productName = productName;
     }
 
-    public String getProviderName() {
-        return providerName;
+    public Long getProviderId() {
+        return providerId;
     }
 
-    public void setProviderName(String providerName) {
-        this.providerName = providerName;
+    public void setProviderId(Long providerId) {
+        this.providerId = providerId;
     }
 
     public Double getNumber() {

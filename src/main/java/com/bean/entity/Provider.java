@@ -13,9 +13,9 @@ public class Provider implements Serializable {
     private String contact;
     private String phone;
     private String fax;
+    private String description;
     @DateTimeFormat(pattern="yyyy-MM-dd")
     private Date createTime;
-    private String description;
 
     @Override
     public String toString() {
@@ -47,11 +47,11 @@ public class Provider implements Serializable {
         this.code = code;
     }
 
-    public String getName() {
+    public String getname() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setname(String name) {
         this.name = name;
     }
 

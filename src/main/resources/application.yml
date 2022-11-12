@@ -9,3 +9,7 @@ spring:
     password: wzp1019811
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations=classpath:mybatis/mapper/*:
+    xml:

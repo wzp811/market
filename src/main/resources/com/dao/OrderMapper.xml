@@ -10,18 +10,25 @@
     <resultMap type="com.bean.vo.OrderVo" id="orderMap">
         <id property="id" column="id"/>
         <result property="code" column="code"/>
-        <result property="productName" column="providerName"/>
-        <result property="providerName" column="providerName"/>
+        <result property="providerId" column="providerId"/>
+        <result property="productName" column="productName"/>
         <result property="number" column="number"/>
         <result property="amount" column="amount"/>
         <result property="status" column="status"/>
         <result property="createTime" column="createTime"/>
+        <result property="unit" column="unit"/>
+
+        <association property="provider" select="selectProviderByProviderId" column="providerId"></association>
     </resultMap>
 
+    <!-- 根据providerId到供应商表查询供应商信息 -->
+    <select id="selectProviderByProviderId" resultType="com.bean.entity.Provider">
+        select * from t_provider where id = #{0}
+    </select>
     <!-- 添加数据, 使用主键自增长 -->
     <insert id="insert" parameterType="com.bean.entity.Order">
-        INSERT INTO `t_order`(code, productName, providerName, number, amount, status, createTime)
-        VALUES (#{code}, #{productName}, #{providerName}, #{number}, #{amount}, #{status}, #{createTime});
+        INSERT INTO `t_order`(code, providerId, productName, number, amount, status, createTime, unit)
+        VALUES (#{code}, #{providerId}, #{productName}, #{number}, #{amount}, #{status}, #{createTime}, {unit});
     </insert>
 
     <delete id="delete" parameterType="com.bean.entity.Order">
@@ -33,7 +40,7 @@
         <set>
             <if test="code != null">code = #{code},</if>
             <if test="productName != null">productName = #{productName},</if>
-            <if test="providerName != null">providerName = #{providerName},</if>
+            <if test="providerId != null">providerId = #{providerId},</if>
             <if test="number != null">number = #{number},</if>
             <if test="unit != null">unit = #{unit},</if>
             <if test="amount != null">amount = #{amount},</if>
@@ -50,7 +57,7 @@
             <if test="id != null">and id = #{id}</if>
             <if test="code != null">and code = #{code}</if>
             <if test="productName != null">and productName = #{productName}</if>
-            <if test="providerName != null">and providerName = #{providerName}</if>
+            <if test="providerId != null">and providerId = #{providerId}</if>
         </where>
     </select>
 

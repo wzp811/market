@@ -42,23 +42,23 @@
     <div class="right">
         <div class="location">
             <strong>你现在所在的位置是:</strong>
-            <span>订单管理页面 >> 信息查看</span>
+            <span>供应商管理页面 >> 信息查看</span>
         </div>
         <div class="providerView">
-            <p><strong>订单编号：</strong><span>${orderInfo.code }</span></p>
+            <p><strong>供应商编号：</strong><span>${providerInfo.code }</span></p>
 
-            <p><strong>商品名称：</strong><span>${orderInfo.productName }</span></p>
+            <p><strong>供应商名称：</strong><span>${providerInfo.name }</span></p>
 
-            <p><strong>商品单位：</strong><span>${orderInfo.unit }</span></p>
+            <p><strong>联系人：</strong><span>${providerInfo.contact }</span></p>
 
 			<!-- yyyy-MM-dd HH:mm:ss, yyyy-MM-dd HH:mm:ss.SSS -->
-            <p><strong>商品数量：</strong><span>${orderInfo.number}</span></p>
+            <p><strong>联系电话：</strong><span>${providerInfo.phone}</span></p>
 
-            <p><strong>总金额：</strong><span>${orderInfo.amount }</span></p>
+            <p><strong>传真：</strong><span>${providerInfo.fax }</span></p>
             
-            <p><strong>供应商：</strong><span>${orderInfo.provider.name }</span></p>
+            <p><strong>描述：</strong><span>${providerInfo.description }</span></p>
 
-            <p><strong>是否付款：</strong><span>${orderInfo.paid }</span></p>
+            <p><strong>创建时间：</strong><span>${providerInfo.createTime }</span></p>
 
             <div class="providerAddBtn">
                 <input type="button" id="back" name="back" value="返回" onclick="backToUserList()">
@@ -82,7 +82,7 @@
 	}
 	/* 函数: 返回用户列表 */
 	function backToUserList(){
-		location = "/order/query";
+		location = "/provider/query";
 	}
 </script>
 <c:remove var="msg" scope="session"/>

@@ -41,7 +41,7 @@
 
 		<div class="right">
 			<div class="location">
-				<strong>你现在所在的位置是:</strong> <span>用户管理页面</span>
+				<strong>你现在所在的位置是:</strong> <span>供应商管理页面</span>
 			</div>
 			<div class="search">
 				<form method="get" action="/jsp/user.do">
@@ -58,26 +58,28 @@
 			<!--用户-->
 			<table class="providerTable" cellpadding="0" cellspacing="0">
 				<tr class="firstTr">
-					<th width="10%">订单编码</th>
-					<th width="20%">商品名称</th>
-					<th width="10%">供应商</th>
-					<th width="10%">订单金额</th>
-					<th width="10%">是否付款</th>
+					<th width="10%">供应商编码</th>
+					<th width="20%">供应商名称</th>
+					<th width="10%">联系人</th>
+					<th width="10%">联系电话</th>
+					<th width="10%">传真</th>
+					<th width="10%">描述</th>
 					<th width="10%">创建时间</th>
-					<th width="30%">操作</th>
+					<th width="20%">操作</th>
 				</tr>
 				
-				<c:forEach items="${orderList }" var="u">
+				<c:forEach items="${providerList }" var="u">
 					<tr>
 						<td><span>${u.code }</span></td>
-						<td><span>${u.productName }</span></td>
-						<td><span>${u.provider.name } </span></td>
-						<td><span>${u.amount }</span></td>
-						<td><span>${u.paid }</span></td>
+						<td><span>${u.name }</span></td>
+						<td><span>${u.contact } </span></td>
+						<td><span>${u.phone }</span></td>
+						<td><span>${u.fax }</span></td>
+						<td><span>${u.description }</span></td>
 						<td><span>${u.createTime }</span></td>
 						<td>
-							<span><a class="viewUser" href="/order/unique?id=${u.id }&page=detail"><img src="/images/read.png" alt="查看" title="查看"/></a></span>
-							<span><a class="modifyUser" href="/order/unique?id=${u.id }&page=update"><img src="/images/xiugai.png" alt="修改" title="修改"/></a></span>
+							<span><a class="viewUser" href="/provider/unique?id=${u.id }&page=detail"><img src="/images/read.png" alt="查看" title="查看"/></a></span>
+							<span><a class="modifyUser" href="/provider/unique?id=${u.id }&page=update"><img src="/images/xiugai.png" alt="修改" title="修改"/></a></span>
 							<span><a class="deleteUser" href="javascript:;"><img src="/images/schu.png" alt="删除" title="删除" /></a></span>
 						</td>
 					</tr>

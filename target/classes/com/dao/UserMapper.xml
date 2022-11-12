@@ -1,71 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
-	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <!-- namespace的名字需要跟接口的类名一致 -->
 <mapper namespace="com.dao.UserMapper">
 
-	<!-- 配置, 结果集映射 -->
-	<resultMap type="com.bean.vo.UserVo" id="userMap">
-		<id property="id" column="id"/>
-		<result property="userName" column="userName"/>
-		<result property="password" column="password"/>
-		<result property="realName" column="realName"/>
-		<result property="gender" column="gender"/>
-		<result property="birthday" column="birthday"/>
-		<result property="phone" column="phone"/>
-		<result property="address" column="address"/>
-		<result property="roleId" column="roleId"/>
-		
-		<association property="role" select="selectRoleByRoleId" column="roleId"></association>
-	</resultMap>
-	
-	<!-- 根据roleId到职务表查询职务信息 -->
-	<select id="selectRoleByRoleId" resultType="com.bean.entity.Role">
-		select * from t_role where id = #{0}
-	</select>	
-	<!-- 添加数据, 使用主键自增长 -->
-	<insert id="insert" parameterType="com.bean.entity.User">
-		INSERT INTO `t_user`(userName, password, realName, gender, birthday, phone, address, roleId)
-		VALUES (#{userName}, #{password}, #{realName}, #{gender}, #{birthday}, #{phone}, #{address}, #{roleId});
-	</insert>
-	
-	<delete id="delete" parameterType="com.bean.entity.User">
-		delete t_user where id = #{id}
-	</delete>
-	
-	<update id="update" parameterType="com.bean.entity.User">
-		update t_user 
-		<set>
-			<if test="userName != null">username = #{userName},</if>
-			<if test="password != null">password = #{password},</if>
-			<if test="realName != null">realName = #{realName},</if>
-			<if test="gender != null">gender = #{gender},</if>
-			<if test="birthday != null">birthday = #{birthday},</if>
-			<if test="phone != null">phone = #{phone},</if>
-			<if test="address != null">address = #{address},</if>
-			<if test="roleId != null">roleId = #{roleId},</if>
-		</set>
-		where id = #{id}
-	</update>
-	
-	<!-- 查询所有数据 -->
-	<select id="select" parameterType="com.bean.entity.User" resultMap="userMap">
-		select * from t_user
-		<where>
-			<if test="id != null">and id = #{id}</if>
-			<if test="userName != null">and userName = #{userName}</if>
-			<if test="password != null">and password = #{password}</if>
-		</where>
-	</select>
-	
-	<select id="selectCount" resultType="int">
-	</select>
-	
-	<select id="selectByPage" resultMap="userMap">
-	</select>
-	
+    <!-- 配置, 结果集映射 -->
+    <resultMap type="com.bean.vo.UserVo" id="userMap">
+        <id property="id" column="id"/>
+        <result property="userName" column="userName"/>
+        <result property="password" column="password"/>
+        <result property="realName" column="realName"/>
+        <result property="gender" column="gender"/>
+        <result property="birthday" column="birthday"/>
+        <result property="phone" column="phone"/>
+        <result property="address" column="address"/>
+        <result property="roleId" column="roleId"/>
+
+        <association property="role" select="selectRoleByRoleId" column="roleId"></association>
+    </resultMap>
+
+    <!-- 根据roleId到职务表查询职务信息 -->
+    <select id="selectRoleByRoleId" resultType="com.bean.entity.Role">
+        select *
+        from t_role
+        where id = #{0}
+    </select>
+    <!-- 添加数据, 使用主键自增长 -->
+    <insert id="insert" parameterType="com.bean.entity.User">
+        INSERT INTO `t_user`(userName, password, realName, gender, birthday, phone, address, roleId)
+        VALUES (#{userName}, #{password}, #{realName}, #{gender}, #{birthday}, #{phone}, #{address}, #{roleId});
+    </insert>
+
+    <delete id="delete" parameterType="com.bean.entity.User">
+        delete
+        t_user where id =
+        #{id}
+    </delete>
+
+    <update id="update" parameterType="com.bean.entity.User">
+        update t_user
+        <set>
+            <if test="userName != null">username = #{userName},</if>
+            <if test="password != null">password = #{password},</if>
+            <if test="realName != null">realName = #{realName},</if>
+            <if test="gender != null">gender = #{gender},</if>
+            <if test="birthday != null">birthday = #{birthday},</if>
+            <if test="phone != null">phone = #{phone},</if>
+            <if test="address != null">address = #{address},</if>
+            <if test="roleId != null">roleId = #{roleId},</if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!-- 查询所有数据 -->
+    <select id="select" parameterType="com.bean.entity.User" resultMap="userMap">
+        select * from t_user
+        <where>
+            <if test="id != null">and id = #{id}</if>
+            <if test="userName != null">and userName = #{userName}</if>
+            <if test="password != null">and password = #{password}</if>
+        </where>
+    </select>
+
+    <select id="selectCount" resultType="int">
+    </select>
+
+    <select id="selectByPage" resultMap="userMap">
+    </select>
+
 </mapper>
 
 

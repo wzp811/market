@@ -1,9 +1,7 @@
 package com.service.impl;
 
 import com.bean.entity.Order;
-import com.bean.entity.User;
 import com.bean.vo.OrderVo;
-import com.bean.vo.UserVo;
 import com.dao.OrderMapper;
 import com.exception.MyException;
 import com.service.OrderService;
@@ -16,7 +14,7 @@ import java.util.List;
 public class OrderServiceImpl implements OrderService {
 
     @Autowired
-    OrderMapper orderMapper;
+    private OrderMapper orderMapper;
 
     @Override
     public List<OrderVo> query() {

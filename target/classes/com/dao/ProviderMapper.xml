@@ -9,8 +9,8 @@
     <!-- 配置, 结果集映射 -->
     <resultMap type="com.bean.vo.ProviderVo" id="providerMap">
         <id property="id" column="id"/>
-        <result property="providerId" column="providerId"/>
-        <result property="providerName" column="providerName"/>
+        <result property="code" column="code"/>
+        <result property="name" column="name"/>
         <result property="contact" column="contact"/>
         <result property="phone" column="phone"/>
         <result property="fax" column="fax"/>
@@ -20,19 +20,21 @@
 
     <!-- 添加数据, 使用主键自增长 -->
     <insert id="insert" parameterType="com.bean.entity.Provider">
-        INSERT INTO `t_provider`(providerId, providerName, contact, phone, fax, createTime, description)
-        VALUES (#{providerId}, #{providerName}, #{contact}, #{phone}, #{fax}, #{createTime}, #{description});
+        INSERT INTO `t_provider`(code, name, contact, phone, fax, createTime, description)
+        VALUES (#{code}, #{name}, #{contact}, #{phone}, #{fax}, #{createTime}, #{description});
     </insert>
 
     <delete id="delete" parameterType="com.bean.entity.Provider">
-        delete t_provider where id = #{id}
+        delete
+        t_provider where id =
+        #{id}
     </delete>
 
     <update id="update" parameterType="com.bean.entity.Provider">
         update t_provider
         <set>
-            <if test="providerId != null">providerId = #{providerId},</if>
-            <if test="providerName != null">providerName = #{providerName},</if>
+            <if test="code != null">code = #{code},</if>
+            <if test="name != null">name = #{name},</if>
             <if test="contact != null">contact = #{contact},</if>
             <if test="phone != null">phone = #{phone},</if>
             <if test="fax != null">fax = #{fax},</if>
@@ -47,15 +49,13 @@
         select * from t_provider
         <where>
             <if test="id != null">and id = #{id}</if>
-            <if test="prividerId != null">and prividerId = #{prividerId}</if>
-            <if test="providerName != null">and providerName = #{providerName}</if>
         </where>
     </select>
 
     <select id="selectCount" resultType="int">
     </select>
 
-    <select id="selectByPage" resultMap="userMap">
+    <select id="selectByPage" resultMap="providerMap">
     </select>
 
 </mapper>
