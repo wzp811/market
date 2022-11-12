@@ -5144,3 +5144,178 @@ javax.el.PropertyNotFoundException: Property [provider] not found on type [com.b
 [INFO]2022-11-12 15:21:33,417 - Completed initialization in 5 ms
 [INFO]2022-11-12 15:25:44,028 - Shutting down ExecutorService 'applicationTaskExecutor'
 [INFO]2022-11-12 15:25:44,031 - {dataSource-1} closed
+[INFO]2022-11-12 15:35:13,384 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 1496 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 15:35:13,388 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 15:35:13,437 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 15:35:13,437 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 15:35:15,625 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 15:35:15,638 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:35:15,645 - Starting service [Tomcat]
+[INFO]2022-11-12 15:35:15,646 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 15:35:15,651 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 15:35:15,651 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 15:35:15,652 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 15:35:15,654 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 15:35:15,812 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 15:35:15,819 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 15:35:15,820 - Root WebApplicationContext: initialization completed in 2383 ms
+[WARN]2022-11-12 15:35:15,874 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 15:35:15,875 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 15:35:15,914 - Init DruidDataSource
+[INFO]2022-11-12 15:35:16,031 - {dataSource-1} inited
+[INFO]2022-11-12 15:35:16,375 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:35:16,555 - LiveReload server is running on port 35729
+[INFO]2022-11-12 15:35:16,590 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:35:16,638 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 15:35:16,642 - Started DemoApplication in 3.635 seconds (JVM running for 4.295)
+[INFO]2022-11-12 15:35:18,585 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 15:35:18,586 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 15:35:18,593 - Completed initialization in 7 ms
+[INFO]2022-11-12 15:41:04,363 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:41:04,368 - {dataSource-1} closed
+[INFO]2022-11-12 15:41:07,492 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 17936 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 15:41:07,495 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 15:41:07,544 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 15:41:07,544 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 15:41:09,726 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 15:41:09,740 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:41:09,748 - Starting service [Tomcat]
+[INFO]2022-11-12 15:41:09,748 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 15:41:09,754 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 15:41:09,755 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 15:41:09,755 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 15:41:09,758 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 15:41:09,907 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 15:41:09,914 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 15:41:09,914 - Root WebApplicationContext: initialization completed in 2370 ms
+[WARN]2022-11-12 15:41:09,967 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 15:41:09,969 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 15:41:10,018 - Init DruidDataSource
+[INFO]2022-11-12 15:41:10,150 - {dataSource-1} inited
+[INFO]2022-11-12 15:41:10,467 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:41:10,639 - LiveReload server is running on port 35729
+[INFO]2022-11-12 15:41:10,681 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:41:10,728 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 15:41:10,731 - Started DemoApplication in 3.598 seconds (JVM running for 4.215)
+[INFO]2022-11-12 15:41:32,283 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 15:41:32,283 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 15:41:32,290 - Completed initialization in 7 ms
+[INFO]2022-11-12 15:45:17,839 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:45:17,843 - {dataSource-1} closed
+[INFO]2022-11-12 15:45:22,037 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 464 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 15:45:22,041 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 15:45:22,104 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 15:45:22,104 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 15:45:24,754 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 15:45:24,766 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:45:24,773 - Starting service [Tomcat]
+[INFO]2022-11-12 15:45:24,773 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 15:45:24,779 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 15:45:24,779 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 15:45:24,779 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 15:45:24,781 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 15:45:24,939 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 15:45:24,947 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 15:45:24,947 - Root WebApplicationContext: initialization completed in 2843 ms
+[WARN]2022-11-12 15:45:25,005 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 15:45:25,006 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 15:45:25,048 - Init DruidDataSource
+[INFO]2022-11-12 15:45:25,178 - {dataSource-1} inited
+[INFO]2022-11-12 15:45:25,496 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:45:25,661 - LiveReload server is running on port 35729
+[INFO]2022-11-12 15:45:25,700 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:45:25,750 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 15:45:25,753 - Started DemoApplication in 4.269 seconds (JVM running for 5.061)
+[INFO]2022-11-12 15:45:31,582 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 15:45:31,582 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 15:45:31,592 - Completed initialization in 10 ms
+[INFO]2022-11-12 15:49:36,054 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:49:36,059 - {dataSource-1} closed
+[INFO]2022-11-12 15:49:39,098 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 12072 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 15:49:39,100 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 15:49:39,161 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 15:49:39,161 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 15:49:41,432 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 15:49:41,444 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:49:41,452 - Starting service [Tomcat]
+[INFO]2022-11-12 15:49:41,452 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 15:49:41,458 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 15:49:41,459 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 15:49:41,459 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 15:49:41,462 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 15:49:41,628 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 15:49:41,635 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 15:49:41,636 - Root WebApplicationContext: initialization completed in 2475 ms
+[WARN]2022-11-12 15:49:41,695 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 15:49:41,697 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 15:49:41,739 - Init DruidDataSource
+[INFO]2022-11-12 15:49:41,864 - {dataSource-1} inited
+[INFO]2022-11-12 15:49:42,184 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:49:42,360 - LiveReload server is running on port 35729
+[INFO]2022-11-12 15:49:42,403 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:49:42,451 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 15:49:42,454 - Started DemoApplication in 3.769 seconds (JVM running for 4.418)
+[INFO]2022-11-12 15:49:49,078 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 15:49:49,078 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 15:49:49,090 - Completed initialization in 11 ms
+[INFO]2022-11-12 15:53:16,493 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:53:16,496 - {dataSource-1} closed
+[INFO]2022-11-12 15:53:19,519 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 13740 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 15:53:19,522 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 15:53:19,587 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 15:53:19,587 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 15:53:22,050 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 15:53:22,065 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:53:22,075 - Starting service [Tomcat]
+[INFO]2022-11-12 15:53:22,075 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 15:53:22,081 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 15:53:22,081 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 15:53:22,081 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 15:53:22,084 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 15:53:22,248 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 15:53:22,255 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 15:53:22,256 - Root WebApplicationContext: initialization completed in 2669 ms
+[WARN]2022-11-12 15:53:22,316 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 15:53:22,318 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 15:53:22,362 - Init DruidDataSource
+[INFO]2022-11-12 15:53:22,509 - {dataSource-1} inited
+[INFO]2022-11-12 15:53:22,835 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 15:53:23,014 - LiveReload server is running on port 35729
+[INFO]2022-11-12 15:53:23,059 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 15:53:23,109 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 15:53:23,112 - Started DemoApplication in 4.017 seconds (JVM running for 4.723)
+[INFO]2022-11-12 15:53:28,077 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 15:53:28,077 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 15:53:28,083 - Completed initialization in 6 ms
+[INFO]2022-11-12 16:22:43,189 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 16:22:43,192 - {dataSource-1} closed
+[INFO]2022-11-12 16:22:46,007 - Starting DemoApplication on DESKTOP-KEGAFFQ with PID 360 (C:\Workspace\Temp\demo-1105-market\demo-1105-market\target\classes started by wzp in C:\Workspace\Temp\demo-1105-market\demo-1105-market)
+[INFO]2022-11-12 16:22:46,009 - No active profile set, falling back to default profiles: default
+[INFO]2022-11-12 16:22:46,058 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO]2022-11-12 16:22:46,058 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO]2022-11-12 16:22:48,304 - Tomcat initialized with port(s): 8080 (http)
+[INFO]2022-11-12 16:22:48,317 - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 16:22:48,325 - Starting service [Tomcat]
+[INFO]2022-11-12 16:22:48,325 - Starting Servlet engine: [Apache Tomcat/9.0.17]
+[INFO]2022-11-12 16:22:48,332 - Loaded APR based Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+[INFO]2022-11-12 16:22:48,332 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO]2022-11-12 16:22:48,332 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO]2022-11-12 16:22:48,335 - OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+[INFO]2022-11-12 16:22:48,534 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO]2022-11-12 16:22:48,542 - Initializing Spring embedded WebApplicationContext
+[INFO]2022-11-12 16:22:48,543 - Root WebApplicationContext: initialization completed in 2485 ms
+[WARN]2022-11-12 16:22:48,600 - Cannot deserialize session attribute [userList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 16:22:48,603 - Cannot deserialize session attribute [orderList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[WARN]2022-11-12 16:22:48,605 - Cannot deserialize session attribute [providerList] for session [C1AF8CA738D8298E9EA9067A4D5DCD23]
+[INFO]2022-11-12 16:22:48,642 - Init DruidDataSource
+[INFO]2022-11-12 16:22:48,766 - {dataSource-1} inited
+[INFO]2022-11-12 16:22:49,059 - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 16:22:49,235 - LiveReload server is running on port 35729
+[INFO]2022-11-12 16:22:49,278 - Starting ProtocolHandler ["http-nio-8080"]
+[INFO]2022-11-12 16:22:49,321 - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO]2022-11-12 16:22:49,324 - Started DemoApplication in 3.674 seconds (JVM running for 4.315)
+[INFO]2022-11-12 16:22:50,269 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO]2022-11-12 16:22:50,269 - Initializing Servlet 'dispatcherServlet'
+[INFO]2022-11-12 16:22:50,278 - Completed initialization in 8 ms
+[INFO]2022-11-12 17:59:15,322 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO]2022-11-12 17:59:15,322 - {dataSource-1} closed
