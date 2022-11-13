@@ -44,19 +44,41 @@
 			<strong>你现在所在的位置是:</strong> <span>用户管理页面</span>
 		</div>
 		<div class="search">
-			<form method="get" action="/jsp/user.do">
-				<input name="method" value="query" class="input-text" type="hidden">
-				<input name="keyword" class="input-text" type="text" value="" placeholder="请输入关键字">
+			<form id="form1" method="get" action="/user/query">
+				<input name="keyword" class="input-text" type="text" value="${qv.keyword }" placeholder="请输入关键字">
+				<select name="gender">
+					<option value="">请选择性别</option>
+					<option value="1" <c:if test="${qv.gender == 1 }">selected</c:if>>男</option>
+					<option value="2" <c:if test="${qv.gender == 2 }">selected</c:if>>女</option>
+					<option value="0" <c:if test="${qv.gender == 0 }">selected</c:if>>保密</option>
+				</select>
 				<select name="roleId">
-					<option value="0">请选择职务</option>
+					<option value="">请选择职务</option>
 					<c:forEach items="${roleList }" var="r">
-						<option value="${r.id }">${r.name }</option>
+						<option value="${r.id }" <c:if test="${qv.roleId == r.id }">selected</c:if>>${r.name }</option>
 					</c:forEach>
 				</select>
+				<input name="minAge" class="input-text" type="text" value="${qv.minAge }" placeholder="最小年龄" size="5" style="text-align:center;width:70px;padding:0;">
+				-
+				<input name="maxAge" class="input-text" type="text" value="${qv.maxAge }" placeholder="最大年龄" size="5" style="text-align:center;width:70px;padding:0;">
 				<input value="查 询" type="submit" id="searchbutton">
 				<a href="/page/user/add.jsp">添加用户</a>
 			</form>
 		</div>
+<%--		<div class="search">--%>
+<%--			<form method="get" action="/jsp/user.do">--%>
+<%--				<input name="method" value="query" class="input-text" type="hidden">--%>
+<%--				<input name="keyword" class="input-text" type="text" value="" placeholder="请输入关键字">--%>
+<%--				<select name="roleId">--%>
+<%--					<option value="0">请选择职务</option>--%>
+<%--					<c:forEach items="${roleList }" var="r">--%>
+<%--						<option value="${r.id }">${r.name }</option>--%>
+<%--					</c:forEach>--%>
+<%--				</select>--%>
+<%--				<input value="查 询" type="submit" id="searchbutton">--%>
+<%--				<a href="/page/user/add.jsp">添加用户</a>--%>
+<%--			</form>--%>
+<%--		</div>--%>
 		<!--用户-->
 		<table class="providerTable" cellpadding="0" cellspacing="0">
 			<tr class="firstTr">
