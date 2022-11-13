@@ -28,11 +28,11 @@
     <!-- 添加数据, 使用主键自增长 -->
     <insert id="insert" parameterType="com.bean.entity.Order">
         INSERT INTO `t_order`(code, providerId, productName, number, amount, status, createTime, unit)
-        VALUES (#{code}, #{providerId}, #{productName}, #{number}, #{amount}, #{status}, #{createTime}, {unit});
+        VALUES (#{code}, #{providerId}, #{productName}, #{number}, #{amount}, #{status}, #{createTime}, #{unit});
     </insert>
 
     <delete id="delete" parameterType="com.bean.entity.Order">
-        delete t_order where id = #{id}
+        delete from t_order where id = #{id}
     </delete>
 
     <update id="update" parameterType="com.bean.entity.Order">
@@ -61,10 +61,13 @@
         </where>
     </select>
 
-    <select id="selectCount" resultType="int">
+    <select id="selectCount" parameterType="map" resultType="int">
+        select count(1) from t_order
     </select>
 
-    <select id="selectByPage" resultMap="orderMap">
+    <select id="selectByPage" parameterType="map" resultMap="orderMap">
+        select * from t_order
+                          limit #{start_code}, #{page_size}
     </select>
 
 </mapper>

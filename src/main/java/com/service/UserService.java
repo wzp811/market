@@ -3,6 +3,7 @@ package com.service;
 import java.util.List;
 
 import com.bean.entity.User;
+import com.bean.pojo.PageAssistant;
 import com.bean.vo.UserVo;
 import com.exception.MyException;
 
@@ -25,4 +26,13 @@ public interface UserService {
 
 	/** 查询（单个用户） */
 	UserVo unique(User user) throws MyException;
+
+	/** 删除 */
+	void remove(User user) throws MyException;
+
+	/** 添加 */
+	void add(User user) throws MyException;
+
+	/** 查询(分页) */
+	PageAssistant<UserVo> query(PageAssistant<UserVo> pa);
 }

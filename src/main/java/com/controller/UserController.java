@@ -5,6 +5,7 @@ import java.util.List;
 import javax.servlet.http.HttpSession;
 
 import com.bean.entity.Role;
+import com.bean.pojo.PageAssistant;
 import com.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -24,18 +25,90 @@ public class UserController {
 
 	@Autowired
 	private RoleService roleService;
+
+	@RequestMapping("add")
+	public String add(User user, HttpSession session) {
+		System.out.println("\n>>> 用户: 添加");
+		System.out.println(user);
+
+		/* 处理业务 */
+		try {
+			//添加
+			userService.add(user);
+			//保存
+			session.setAttribute("msg", "添加用户信息成功!");
+			//跳转
+			return "redirect:/user/query";
+		} catch (MyException e) {
+			e.printStackTrace();
+			//保存错误提示
+			session.setAttribute("msg", e.getMessage());
+		} catch (Exception e) {
+			e.printStackTrace();
+			//保存错误提示
+			session.setAttribute("msg", "服务器走神了, 请重试~");
+		}
+
+		return "redirect:/page/user/add.jsp";
+	}
+
+	@RequestMapping("remove")
+	public String remove(User user, HttpSession session) {
+		System.out.println("\n>>> 用户: 删除");
+		System.out.println(user);
+
+		/* 处理业务 */
+		try {
+			//删除
+			userService.remove(user);
+			//保存
+			session.setAttribute("msg", "删除用户信息成功!");
+			//跳转
+			return "redirect:/user/query";
+		} catch (MyException e) {
+			e.printStackTrace();
+			//保存错误提示
+			session.setAttribute("msg", e.getMessage());
+		} catch (Exception e) {
+			e.printStackTrace();
+			//保存错误提示
+			session.setAttribute("msg", "服务器走神了, 请重试~");
+		}
+
+		return "redirect:/page/user/list.jsp";
+	}
 	
+//	@RequestMapping("query")
+//	public String query(HttpSession session) {
+//		System.out.println("\n>>> 用户查询");
+//
+//		/* 处理业务 */
+//		//查询
+//		List<UserVo> userList = userService.query();
+//
+//		//保存数据
+//		session.setAttribute("userList", userList);
+//
+//		return "/page/user/list.jsp";
+//	}
+
+
+
 	@RequestMapping("query")
-	public String query(HttpSession session) {
-		System.out.println("\n>>> 用户查询");
-		
+	public String query(HttpSession session, PageAssistant<UserVo> pa) {
+		System.out.println("\n>>> 用户查询(分页)");
+		System.out.println(pa);
+
 		/* 处理业务 */
 		//查询
-		List<UserVo> userList = userService.query();
-		
+		pa = userService.query(pa);
+
+		List<Role> roleList = roleService.queryAll();
+		session.setAttribute("roleList", roleList);
+
 		//保存数据
-		session.setAttribute("userList", userList);
-		
+		session.setAttribute("pa", pa);
+
 		return "/page/user/list.jsp";
 	}
 	

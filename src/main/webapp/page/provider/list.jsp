@@ -52,7 +52,7 @@
 
 					</select> <input type="hidden" name="pageIndex" value="1" /> <input
 						value="查 询" type="submit" id="searchbutton"> <a
-						href="/jsp/useradd.jsp">添加订单</a>
+						href="/page/provider/add.jsp">添加订单</a>
 				</form>
 			</div>
 			<!--用户-->
@@ -67,8 +67,8 @@
 					<th width="10%">创建时间</th>
 					<th width="20%">操作</th>
 				</tr>
-				
-				<c:forEach items="${providerList }" var="u">
+
+				<c:forEach items="${pa.items }" var="u" varStatus="line">
 					<tr>
 						<td><span>${u.code }</span></td>
 						<td><span>${u.name }</span></td>
@@ -80,7 +80,8 @@
 						<td>
 							<span><a class="viewUser" href="/provider/unique?id=${u.id }&page=detail"><img src="/images/read.png" alt="查看" title="查看"/></a></span>
 							<span><a class="modifyUser" href="/provider/unique?id=${u.id }&page=update"><img src="/images/xiugai.png" alt="修改" title="修改"/></a></span>
-							<span><a class="deleteUser" href="javascript:;"><img src="/images/schu.png" alt="删除" title="删除" /></a></span>
+							<span><a class="deleteUser" href="/provider/remove?id=${u.id }" onclick="return confirm('确定删除供应商<${u.name }>吗?')"><img src="/images/schu.png" alt="删除" title="删除" /></a></span>
+
 						</td>
 					</tr>
 				</c:forEach>
@@ -88,17 +89,27 @@
 			<input type="hidden" id="totalPageCount" value="3" />
 
 			<div class="page-bar">
-				<ul class="page-num-ul clearfix">
-					<li>共12条记录&nbsp;&nbsp; 1/3页</li>
-
-
-					<a href="#">下一页</a>
-					<a href="#">最后一页</a> &nbsp;&nbsp;
-				</ul>
-				<span class="page-go-form"><label>跳转至</label> <input
-					type="text" name="inputPage" id="inputPage" class="page-key" />页
-					<button type="button" class="page-btn"
-						onClick='jump_to(document.forms[0],document.getElementById("inputPage").value)'>GO</button>
+				<span>
+					第${pa.currPage}页 / 共${pa.totalPage}页
+					&nbsp;&nbsp;&nbsp;共${pa.count}条
+					<select name="pageSize">
+						<c:forEach begin="5" end="20" step="5" var="n">
+							<option value="${n}" <c:if test="${pa.pageSize == n}">selected</c:if>>每页${n}条</option>
+						</c:forEach>
+					</select>
+				</span>
+				<span>
+					<a>首页</a>
+					<a>上一页</a>
+					<a>下一页</a>
+					<a>尾页</a>
+					<select name="pageNum">
+						<c:forEach begin="1" end="${pa.totalPage }" var="n">
+							<option value="${n }" <c:if test="${pa.currPage == n}">selected</c:if>>跳转到第${n }页</option>
+						</c:forEach>
+					</select>
+					第<input name="pageCode" value="${pa.currPage }">页
+					<input type="button" value="跳转">
 				</span>
 			</div>
 
@@ -111,7 +122,7 @@
 			<div class="removerChid">
 				<h2>提示</h2>
 				<div class="removeMain">
-					<p>你确定要删除该用户吗？</p>
+					<p>你确定要删除该供应商吗？</p>
 					<a href="#" id="yes">确定</a> <a href="#" id="no">取消</a>
 				</div>
 			</div>
@@ -126,6 +137,93 @@
 	<script type="text/javascript" src="/js/common.js"></script>
 	<script type="text/javascript" src="/calendar/WdatePicker.js"></script>
 	<script type="text/javascript" src="/js/userlist.js"></script>
+	<script type="text/javascript" src="/js/rollpage.js"></script>
 </body>
+<script type="text/javascript">
+	if("${msg}"){
+		alert("${msg}");
+	}
+</script>
+<c:remove var="msg" scope="session"/>
+
+<!-- 分页 : 翻页按钮 -->
+<script type="text/javascript">
+
+	//判断, 当前是否是第一页
+	if("${pa.currPage==1}" != "true"){
+		$(".page-bar span:last a:eq(0)").attr("href", "/provider/query?currPage=1&pageSize=${pa.pageSize}");
+		$(".page-bar span:last a:eq(1)").attr("href", "/provider/query?currPage=${pa.currPage-1}&pageSize=${pa.pageSize}");
+	}
+
+	//判断, 当前是否是最后页
+	if("${pa.currPage==pa.totalPage}" != "true"){
+		$(".page-bar span:last a:eq(2)").attr("href", "/provider/query?currPage=${pa.currPage+1}&pageSize=${pa.pageSize}");
+		$(".page-bar span:last a:eq(3)").attr("href", "/provider/query?currPage=${pa.totalPage}&pageSize=${pa.pageSize}");
+	}
+
+</script>
+
+<!-- 分页 : 跳转 -->
+<script type="text/javascript">
+
+	$(".page-bar [name='pageNum']").on("change", function(){
+
+		//获取选中的页码
+		var pageNum = $(".page-bar [name='pageNum'] option:selected").val();
+
+		//跳转
+		location = "/provider/query?pageSize=${pa.pageSize}&currPage="+pageNum;
+	})
+
+	$(".page-bar [name='pageCode']").next().on("click", function(){
+
+		//alert("in")
+
+		//获取文本框中的页码
+		var pageCode = $(".page-bar [name='pageCode']").val();
+
+		//验证, 是否是数值
+		if(!/^\d+$/.test(pageCode)){
+			$(".page-bar [name='pageCode']").val("${pa.currPage}");
+			return;
+		}
+
+		//将数据转换成整数
+		pageCode = parseInt(pageCode);
+
+		//获取总页数
+		var totalPage = parseInt("${pa.totalPage}");
+		//获取当前页
+		var currPage = parseInt("${pa.currPage}");
+
+		//判断, 页码是否在合法范围
+		if(pageCode < 1 || pageCode > totalPage){
+			$(".page-bar [name='pageCode']").val("${pa.currPage}");
+			return;
+		}
+
+		//判断, 页码是否是当前页
+		if(pageCode == currPage){
+			$(".page-bar [name='pageCode']").val("${pa.currPage}");
+			return;
+		}
+
+		//跳转
+		location = "/provider/query?pageSize=${pa.pageSize}&currPage="+pageCode;
+	})
+</script>
+
+<!-- 分页:变更页面大小 -->
+<script type="text/javascript">
+	$(".page-bar [name='pageSize']").on("change", function(){
+
+		//获取当前选中的页面大小
+		var size = $(".page-bar [name='pageSize'] option:selected").val();
+
+		//跳转
+		location = "/provider/query?currPage=${pa.currPage}&pageSize="+size;
+
+	})
+</script>
 </html>
 

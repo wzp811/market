@@ -25,7 +25,7 @@
     </insert>
 
     <delete id="delete" parameterType="com.bean.entity.Provider">
-        delete
+        delete from
         t_provider where id =
         #{id}
     </delete>
@@ -52,10 +52,13 @@
         </where>
     </select>
 
-    <select id="selectCount" resultType="int">
+    <select id="selectCount" parameterType="map" resultType="int">
+        select count(1) from t_provider
     </select>
 
-    <select id="selectByPage" resultMap="providerMap">
+    <select id="selectByPage" parameterType="map" resultMap="providerMap">
+        select * from t_provider
+                          limit #{start_code}, #{page_size}
     </select>
 
 </mapper>

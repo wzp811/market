@@ -34,9 +34,8 @@
     </insert>
 
     <delete id="delete" parameterType="com.bean.entity.User">
-        delete
-        t_user where id =
-        #{id}
+        delete from
+        t_user where id = #{id}
     </delete>
 
     <update id="update" parameterType="com.bean.entity.User">
@@ -64,10 +63,13 @@
         </where>
     </select>
 
-    <select id="selectCount" resultType="int">
+    <select id="selectCount" parameterType="map" resultType="int">
+        select count(1) from t_user
     </select>
 
-    <select id="selectByPage" resultMap="userMap">
+    <select id="selectByPage" parameterType="map" resultMap="userMap">
+        select * from t_user
+                          limit #{start_code}, #{page_size}
     </select>
 
 </mapper>
